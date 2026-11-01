@@ -1,0 +1,846 @@
+sample_id,image_path,source,language,cluster_id,original_transcript,corrected_transcript,correction_status,flagged_words,canonical_corrections,accepted_alternatives,annotation_count,resolved_target_count,unresolved_target_count
+asap_sas_0001,images/asap_sas_0001.png,ASAP-SAS,en,sample_asap_sas_0001,Pandas in China almost exclusively eat bamboo making them a specialists species. Koalas in Australia are also specialists because they almost exclusively eat eucalyptus leaves. They are diffrent from pythons because pythons can live almost anywhere and can thrive on almost any food source.,Pandas in China almost exclusively eat bamboo making them a specialists species. Koalas in Australia are also specialists because they almost exclusively eat eucalyptus leaves. They are different from pythons because pythons can live almost anywhere and can thrive on almost any food source.,complete,diffrent,different,,1,1,0
+asap_sas_0002,images/asap_sas_0002.png,ASAP-SAS,en,sample_asap_sas_0002,In the article the author tells us that China's panda eats almost nothing but bamboo and the Australia's koala bear exclusiusvely eats eucalyptus leaves. Both animals really eat one thing. A python is very different it doesnt eat one thing it swallows its meals there for its very different.,In the article the author tells us that China's panda eats almost nothing but bamboo and the Australia's koala bear exclusively eats eucalyptus leaves. Both animals really eat one thing. A python is very different it doesnt eat one thing it swallows its meals there for its very different.,complete,exclusiusvely,exclusively,,1,1,0
+asap_sas_0003,images/asap_sas_0003.png,ASAP-SAS,en,sample_asap_sas_0003,"Panda in China are similar to koalas in Australia because each one needs to stay their own habitat because they cannot live without the sources that their habitat give them. They both are different from pythons caue python could addapt in any environment For example on the paragraph 21, the author give us a reason for why the pandas and koalas can't live in other environment.","Panda in China are similar to koalas in Australia because each one needs to stay their own habitat because they cannot live without the sources that their habitat give them. They both are different from pythons care python could adapt in any environment For example on the paragraph 21, the author give us a reason for why the pandas and koalas can't live in other environment.",complete,caue|addapt,care|adapt,,2,2,0
+asap_sas_0004,images/asap_sas_0004.png,ASAP-SAS,en,sample_asap_sas_0004,"Pandas in China are similar to koalas in Australia because both of them can only live off one food source. They cannot live anywhere else because they need that specific thing found only in their enviorment. Pythons however can live off many things, they can live in different enviorments and eat different rats, thats how they live across the world.","Pandas in China are similar to koalas in Australia because both of them can only live off one food source. They cannot live anywhere else because they need that specific thing found only in their environment. Pythons however can live off many things, they can live in different environments and eat different rats, thats how they live across the world.",complete,enviorment|enviorments,environment|environments,,2,2,0
+asap_sas_0005,images/asap_sas_0005.png,ASAP-SAS,en,sample_asap_sas_0005,"How pandas in China are similar to koalas in Australia is they both eat almost one thing all the time. Pandas eat almost nothing but bamboo, and the koala bear which eats eucalyptus leaves almost exclusively. And how their both different from a python is that they don't eat anything when their hungery , a python will eat what ever animal or human it can get.","How pandas in China are similar to koalas in Australia is they both eat almost one thing all the time. Pandas eat almost nothing but bamboo, and the koala bear which eats eucalyptus leaves almost exclusively. And how their both different from a python is that they don't eat anything when their hungry , a python will eat what ever animal or human it can get.",complete,hungery,hungry,,1,1,0
+asap_sas_0006,images/asap_sas_0006.png,ASAP-SAS,en,sample_asap_sas_0006,"""Pandas and koalas are quite similar in that both species have adapted immensly to their surroundings in that they would probably become hopeless if one was to be outside of their home and found to adapt elsewhere, They are consicttenca "" specialists"", They differ from pythons in that pythons are "" Generalists"", the ultimate generalist is arguably a human being, can live anywhere that is kashy the orbility of a python.""","""Pandas and koalas are quite similar in that both species have adapted immensly to their surroundings in that they would probably become hopeless if one was to be outside of their home and found to adapt elsewhere, They are consicttenca "" specialists"", They differ from pythons in that pythons are "" Generalists"", the ultimate generalist is arguably a human being, can live anywhere that is kashy the ability of a python.""",complete,orbility,ability,,1,1,0
+asap_sas_0007,images/asap_sas_0007.png,ASAP-SAS,en,sample_asap_sas_0007,Pandas and koalas are similar because thier specialists species who need sertain things to servive. They are not like the pythons because pythons are generalist who can servive in large areas.,,unresolved_target,thier|sertain|servive,their|certain|service,,3,2,1
+asap_sas_0008,images/asap_sas_0008.png,ASAP-SAS,en,sample_asap_sas_0008,"The are of the specialists of panda's shows far that wich eats almost nothing but bamboo, or Australia's koala bear which eats eucalyptus leaves almost exclusively. The reasons for that I think are causes they live they grow what they eat and specialy with what other animals they live.","The are of the specialists of panda's shows far that with eats almost nothing but bamboo, or Australia's koala bear which eats eucalyptus leaves almost exclusively. The reasons for that I think are causes they live they grow what they eat and special with what other animals they live.",complete,wich|specialy,with|special,,2,2,0
+asap_sas_0009,images/asap_sas_0009.png,ASAP-SAS,en,sample_asap_sas_0009,"Pandas from China are similar to koalas in Australia because they are both specialist species. ""A specalist is china's panda which eats almost nothing but bamboo or Australia's koalas bear which eats eucalyptus leaves almost exlusively"". They are both different from pythons because pythons are generalists.","Pandas from China are similar to koalas in Australia because they are both specialist species. ""A specialist is china's panda which eats almost nothing but bamboo or Australia's koalas bear which eats eucalyptus leaves almost exclusively"". They are both different from pythons because pythons are generalists.",complete,specalist|exlusively,specialist|exclusively,,2,2,0
+asap_sas_0010,images/asap_sas_0010.png,ASAP-SAS,en,sample_asap_sas_0010,The panda bear is similar to the koala because they both eat only one type of food. For a panda it's bamboo and for koala's its eucalyptus leaves. They are different from pythons because a python eats animals and the bears eat vegitatian.,The panda bear is similar to the koala because they both eat only one type of food. For a panda it's bamboo and for koala's its eucalyptus leaves. They are different from pythons because a python eats animals and the bears eat vegetarian.,complete,vegitatian,vegetarian,,1,1,0
+asap_sas_0011,images/asap_sas_0011.png,ASAP-SAS,en,sample_asap_sas_0011,"How panda's in China are similar to Koalas in Australia is they are bears, and they both almost eat the same things, they both can clime trees: the eat leaves, and fruit. They both are diffrent from pythons because they are not a reptile also they can not fit the same amount in there mouth in one bite like a python. they don't eat most of what pythons eat and also they do not shed there skin/scales.","How panda's in China are similar to Koalas in Australia is they are bears, and they both almost eat the same things, they both can clime trees: the eat leaves, and fruit. They both are different from pythons because they are not a reptile also they can not fit the same amount in there mouth in one bite like a python. they don't eat most of what pythons eat and also they do not shed there skin/scales.",complete,diffrent,different,,1,1,0
+asap_sas_0012,images/asap_sas_0012.png,ASAP-SAS,en,sample_asap_sas_0012,Pandas in China are similar to koala's in Australia because as they say in paragraph 21 that they are both specialists. And these two species are diferent than pythons because as show said the species are imperelling five endangered species in the Florida keys.,Pandas in China are similar to koala's in Australia because as they say in paragraph 21 that they are both specialists. And these two species are different than pythons because as show said the species are imperelling five endangered species in the Florida keys.,complete,diferent,different,,1,1,0
+asap_sas_0013,images/asap_sas_0013.png,ASAP-SAS,en,sample_asap_sas_0013,Pandas in  China and koalas in Australia are very similar because they only survive by feeding on one thing mostly. They are both different from pythons because of a few things. They're a different speices and also because they feed on different things.,Pandas in  China and koalas in Australia are very similar because they only survive by feeding on one thing mostly. They are both different from pythons because of a few things. They're a different space and also because they feed on different things.,complete,speices,space,,1,1,0
+asap_sas_0014,images/asap_sas_0014.png,ASAP-SAS,en,sample_asap_sas_0014,"The are similar because they are both bear and they both almost one kind of food pyton, are harmful animal in zoos pyton swallowed an alligator.",,unresolved_target,pyton,Python,,1,0,1
+asap_sas_0015,images/asap_sas_0015.png,ASAP-SAS,en,sample_asap_sas_0015,"The pandas in China are similar to koalas because they dont have a movin haitat, like the reptiles have the main haitat so they cant live everywhere.",,unresolved_target,movin|haitat,movie|habitat,,2,1,1
+asap_sas_0016,images/asap_sas_0016.png,ASAP-SAS,en,sample_asap_sas_0016,"""Pandas and koalas are similar because they both mainly only eat one type of vegetation. As stated in the article, ""..Chinas panda, which eats almost nothing but bamboo, or Australias koala bear, which eats eucalyptus leaves almost exclusively."" And both pandas and koalas are different from pythos because they are not reptiles nor carnivores.""","""Pandas and koalas are similar because they both mainly only eat one type of vegetation. As stated in the article, ""..Chinas panda, which eats almost nothing but bamboo, or Australias koala bear, which eats eucalyptus leaves almost exclusively."" And both pandas and koalas are different from pythons because they are not reptiles nor carnivores.""",complete,pythos,pythons,,1,1,0
+asap_sas_0017,images/asap_sas_0017.png,ASAP-SAS,en,sample_asap_sas_0017,"Pandas and koalas are alike because, they both only eat on type of plant. And how it will have an environmental consequence. They are different because they stay in one place while pythons are moveing all the time.","Pandas and koalas are alike because, they both only eat on type of plant. And how it will have an environmental consequence. They are different because they stay in one place while pythons are moving all the time.",complete,moveing,moving,,1,1,0
+asap_sas_0018,images/asap_sas_0018.png,ASAP-SAS,en,sample_asap_sas_0018,"""Pandas in China are similar to koalas in Australia because in the article it state China panda which leat almost nothing but bamboo or Austeala's koala bear which eat eucalyptus leaves."" Pythons are different from pandas in China to koalas.""","""Pandas in China are similar to koalas in Australia because in the article it state China panda which left almost nothing but bamboo or Austeala's koala bear which eat eucalyptus leaves."" Pythons are different from pandas in China to koalas.""",complete,leat,left,,1,1,0
+asap_sas_0019,images/asap_sas_0019.png,ASAP-SAS,en,sample_asap_sas_0019,The panda in China and the koala in Australia are similar because they both bears they both differents cause they eats eucalyptus and leaves almost exclusively and leaves almost exclusively and thet different kind of leaves and lives in different country's and climate.,The panda in China and the koala in Australia are similar because they both bears they both different cause they eats eucalyptus and leaves almost exclusively and leaves almost exclusively and thet different kind of leaves and lives in different country's and climate.,complete,differents,different,,1,1,0
+asap_sas_0020,images/asap_sas_0020.png,ASAP-SAS,en,sample_asap_sas_0020,"""Pandas in China are similar to koalas in Australia. They are similar because they can not live apart from where they live! For example, in the story it say ""panda which eats almost nothing but bamboo, or ... koala bear, which eats eucalyptus leaves almost exclusively."" This explains why there similar. They are both differen from the python because neather weeds to abadte to the weather.""","""Pandas in China are similar to koalas in Australia. They are similar because they can not live apart from where they live! For example, in the story it say ""panda which eats almost nothing but bamboo, or ... koala bear, which eats eucalyptus leaves almost exclusively."" This explains why there similar. They are both different from the python because weather weeds to abadte to the weather.""",complete,differen|neather,different|weather,,2,2,0
+asap_sas_0021,images/asap_sas_0021.png,ASAP-SAS,en,sample_asap_sas_0021,Well pandas in China are always eating the bamboo and koala in Australia eats alot of leaf and the panda is bigger in size and the koala is way smaller than the panda and the koala eats eucalyptus the it almost exclusively macinnes is not without the enviroment.,Well pandas in China are always eating the bamboo and koala in Australia eats alot of leaf and the panda is bigger in size and the koala is way smaller than the panda and the koala eats eucalyptus the it almost exclusively macinnes is not without the environment.,complete,enviroment,environment,,1,1,0
+asap_sas_0022,images/asap_sas_0022.png,ASAP-SAS,en,sample_asap_sas_0022,In China the panda bear only eats bambo nothing else and the koala does the same with eucalyptus. The python eat anything that falls into its gullet.,In China the panda bear only eats bamboo nothing else and the koala does the same with eucalyptus. The python eat anything that falls into its gullet.,complete,bambo,bamboo,,1,1,0
+asap_sas_0023,images/asap_sas_0023.png,ASAP-SAS,en,sample_asap_sas_0023,Pandas in China are similar to koalas in Australia because both have tend to eat one specific food. The pandas in China eats almost nothing but bamboo. And the Australian koalas tend to eat eucalyptus leaves almost exclusively. These two animals are both different from pythons because pythons have to adapt to new places they move to and therefore they're eating habbits  changes.,Pandas in China are similar to koalas in Australia because both have tend to eat one specific food. The pandas in China eats almost nothing but bamboo. And the Australian koalas tend to eat eucalyptus leaves almost exclusively. These two animals are both different from pythons because pythons have to adapt to new places they move to and therefore they're eating habits  changes.,complete,habbits,habits,,1,1,0
+asap_sas_0024,images/asap_sas_0024.png,ASAP-SAS,en,sample_asap_sas_0024,Pandas in china are Similar to Koalas in Australia because china's panda eats nothing but bamboo and Australia's Koala bear eats eucalyptus leaves almost exclusively. They are different from Pythons because Pythons eat almost anything expecially meat from reptiles.,Pandas in china are Similar to Koalas in Australia because china's panda eats nothing but bamboo and Australia's Koala bear eats eucalyptus leaves almost exclusively. They are different from Pythons because Pythons eat almost anything especially meat from reptiles.,complete,expecially,especially,,1,1,0
+asap_sas_0025,images/asap_sas_0025.png,ASAP-SAS,en,sample_asap_sas_0025,"""Chinese pandas and Australian koalas are very similar to each other due to their endangerment and dietary prefference to bamboo and eucalyptus. However, according to the article.""A python swallowed an alligator and there's not a delicate way to it- exploded."" That shows how unlike the panda a koalas the python will eat anything.""","""Chinese pandas and Australian koalas are very similar to each other due to their endangerment and dietary preference to bamboo and eucalyptus. However, according to the article.""A python swallowed an alligator and there's not a delicate way to it- exploded."" That shows how unlike the panda a koalas the python will eat anything.""",complete,prefference,preference,,1,1,0
+asap_sas_0026,images/asap_sas_0026.png,ASAP-SAS,en,sample_asap_sas_0026,"Koalas and pandas are both native to only one locasion: koalas in Australia and pandas in China. Pythons are native to and locasion to but are being sold as pets, so they are turning up ever ware.",,unresolved_target,locasion,location,,1,0,1
+asap_sas_0027,images/asap_sas_0027.png,ASAP-SAS,en,sample_asap_sas_0027,"Pandas in china eat only bamboo and really doesn't harm anything which is similar to koalas in Australia that only eats eucalyptus leaves reptiles feast on meat, people and are visious totally different from plant eaters.","Pandas in china eat only bamboo and really doesn't harm anything which is similar to koalas in Australia that only eats eucalyptus leaves reptiles feast on meat, people and are vicious totally different from plant eaters.",complete,visious,vicious,,1,1,0
+asap_sas_0028,images/asap_sas_0028.png,ASAP-SAS,en,sample_asap_sas_0028,China's panda eats bamboo and rerly nothing else. And also Australia's koala bear eats eucalyptus leaves all the time. Pandas and koalas are different from pythons because they eat one thing when pythons eat allot more than one thing.,China's panda eats bamboo and reply nothing else. And also Australia's koala bear eats eucalyptus leaves all the time. Pandas and koalas are different from pythons because they eat one thing when pythons eat allot more than one thing.,complete,rerly,reply,,1,1,0
+asap_sas_0029,images/asap_sas_0029.png,ASAP-SAS,en,sample_asap_sas_0029,Pandas and koalas are both the a same because they are animals that cant survive elsewhere if they are taken out of their enviroment. Pythons is a really big example of how they are slowly immigrating in the U.S. showing the idea of invasive.,Pandas and koalas are both the a same because they are animals that cant survive elsewhere if they are taken out of their environment. Pythons is a really big example of how they are slowly immigrating in the U.S. showing the idea of invasive.,complete,enviroment,environment,,1,1,0
+asap_sas_0030,images/asap_sas_0030.png,ASAP-SAS,en,sample_asap_sas_0030,Pandanas from China like the warm wether and the koalas from Australia like the warm wether to that how they are alike. They are different from pythons cause they are not snacks.,,unresolved_target,wether,whether,,1,0,1
+asap_sas_0031,images/asap_sas_0031.png,ASAP-SAS,en,sample_asap_sas_0031,Pandas are going extict caused by the look of their food source of only bamboo. While koalas are the same and stay to a constant food supply. Pythons are native but can adapt to that surroundings.,Pandas are going extinct caused by the look of their food source of only bamboo. While koalas are the same and stay to a constant food supply. Pythons are native but can adapt to that surroundings.,complete,extict,extinct,,1,1,0
+fhswf_de_0001,images/fhswf_de_0001.png,FH-SWF,de,sample_fhswf_de_0001,anderen Merkmalsträger etwas wissentschaftliches sagen zu können.,anderen Merkmalsträger etwas Wissenschaftliches sagen zu können.,complete,wissentschaftliches,Wissenschaftliches,,1,1,0
+fhswf_de_0002,images/fhswf_de_0002.png,FH-SWF,de,sample_fhswf_de_0002,- Eine Auswahl ist die nachvollziebare Selektion von Merkmalsträgern,- Eine Auswahl ist die nachvollziehbare Selektion von Merkmalsträgern,complete,nachvollziebare,nachvollziehbare,,1,1,0
+fhswf_de_0003,images/fhswf_de_0003.png,FH-SWF,de,sample_fhswf_de_0003,"- Viele theoretische Konzepte bestehehen aus mehreren Dimensionen,","- Viele theoretische Konzepte bestehen aus mehreren Dimensionen,",complete,bestehehen,bestehen,,1,1,0
+fhswf_de_0004,images/fhswf_de_0004.png,FH-SWF,de,sample_fhswf_de_0004,dies aber nicht umzusetzten ist.,dies aber nicht umzusetzen ist.,complete,umzusetzten,umzusetzen,,1,1,0
+fhswf_de_0005,images/fhswf_de_0005.png,FH-SWF,de,sample_fhswf_de_0005,"- Nicht extern gehärtetes Wissen übberreicht,","- Nicht extern gehärtetes Wissen überreicht,",complete,übberreicht,überreicht,,1,1,0
+fhswf_de_0006,images/fhswf_de_0006.png,FH-SWF,de,sample_fhswf_de_0006,"- Konstanten haben keinen Gültigkeitsbereich, Variabeln können in verschiedenen","- Konstanten haben keinen Gültigkeitsbereich, Variablen können in verschiedenen",complete,Variabeln,Variablen,,1,1,0
+fhswf_de_0007,images/fhswf_de_0007.png,FH-SWF,de,sample_fhswf_de_0007,wenn Maschine Grundstück verläst -> Umsatz gemacht,wenn Maschine Grundstück verlässt -> Umsatz gemacht,complete,verläst,verlässt,,1,1,0
+fhswf_de_0008,images/fhswf_de_0008.png,FH-SWF,de,sample_fhswf_de_0008,"ist, kann mann sie bei den Berechnungen vernachlässigen, da sie nur","ist, kann man sie bei den Berechnungen vernachlässigen, da sie nur",complete,mann,man,,1,1,0
+fhswf_de_0009,images/fhswf_de_0009.png,FH-SWF,de,sample_fhswf_de_0009,und mit einem weißen Schild numeriert,und mit einem weißen Schild nummeriert,complete,numeriert,nummeriert,,1,1,0
+fhswf_de_0010,images/fhswf_de_0010.png,FH-SWF,de,sample_fhswf_de_0010,Konflikt zwischem moralischen Handeln und,Konflikt zwischen moralischen Handeln und,complete,zwischem,zwischen,,1,1,0
+fhswf_de_0011,images/fhswf_de_0011.png,FH-SWF,de,sample_fhswf_de_0011,- Das Zeitgefühl werde auch beinflusst,- Das Zeitgefühl werde auch beeinflusst,complete,beinflusst,beeinflusst,,1,1,0
+fhswf_de_0012,images/fhswf_de_0012.png,FH-SWF,de,sample_fhswf_de_0012,das Es beinflusst ist stark abhängig von,das Es beeinflusst ist stark abhängig von,complete,beinflusst,beeinflusst,,1,1,0
+fhswf_de_0013,images/fhswf_de_0013.png,FH-SWF,de,sample_fhswf_de_0013,"am Telefon höhrte, zerbrach er sich darüber","am Telefon hörte, zerbrach er sich darüber",complete,höhrte,hörte,,1,1,0
+fhswf_de_0014,images/fhswf_de_0014.png,FH-SWF,de,sample_fhswf_de_0014,Die Antwort ist offentsichtlich Nein und so,Die Antwort ist offensichtlich Nein und so,complete,offentsichtlich,offensichtlich,,1,1,0
+fhswf_de_0015,images/fhswf_de_0015.png,FH-SWF,de,sample_fhswf_de_0015,Im letzen Abschnitt fassen sie die Argumente,Im letzten Abschnitt fassen sie die Argumente,complete,letzen,letzten,,1,1,0
+fhswf_de_0016,images/fhswf_de_0016.png,FH-SWF,de,sample_fhswf_de_0016,mächtig und ein Eizelner hat kaum bzw,mächtig und ein Einzelner hat kaum bzw,complete,Eizelner,Einzelner,,1,1,0
+fhswf_de_0017,images/fhswf_de_0017.png,FH-SWF,de,sample_fhswf_de_0017,"Teilnehmer waren Diplomaten, Deligierte und Staatsoberhäupter Könige, Herrscher der Länder","Teilnehmer waren Diplomaten, Delegierte und Staatsoberhäupter Könige, Herrscher der Länder",complete,Deligierte,Delegierte,,1,1,0
+fhswf_de_0018,images/fhswf_de_0018.png,FH-SWF,de,sample_fhswf_de_0018,"Sind die Giepfel auch schon mit Schnee bedeckt,","Sind die Gipfel auch schon mit Schnee bedeckt,",complete,Giepfel,Gipfel,,1,1,0
+fhswf_de_0019,images/fhswf_de_0019.png,FH-SWF,de,sample_fhswf_de_0019,• Sie haben eine Relevanz fü heutiges Geschehen.,• Sie haben eine Relevanz für heutiges Geschehen.,complete,fü,für,,1,1,0
+fhswf_de_0020,images/fhswf_de_0020.png,FH-SWF,de,sample_fhswf_de_0020,- Verteilung der kontrolierten Drittvariablen muss gleich,- Verteilung der kontrollierten Drittvariablen muss gleich,complete,kontrolierten,kontrollierten,,1,1,0
+fhswf_de_0021,images/fhswf_de_0021.png,FH-SWF,de,sample_fhswf_de_0021,Wie sähe eine einfache Zufallstichprobe aus?,Wie sähe eine einfache Zufallsstichprobe aus?,complete,Zufallstichprobe,Zufallsstichprobe,,1,1,0
+fhswf_de_0022,images/fhswf_de_0022.png,FH-SWF,de,sample_fhswf_de_0022,=> Rohdaten werden in ein digitalisiertes Dokumen umgewandelt.,=> Rohdaten werden in ein digitalisiertes Dokument umgewandelt.,complete,Dokumen,Dokument,,1,1,0
+fhswf_de_0023,images/fhswf_de_0023.png,FH-SWF,de,sample_fhswf_de_0023,- Regelen des politischen Regimes die Demokratie und Autokratie,- Regeln des politischen Regimes die Demokratie und Autokratie,complete,Regelen,Regeln,,1,1,0
+gnhk_0001,images/gnhk_0001.jpg,GNHK,en,sample_gnhk_0001,the kichen where he found his gran,the kitchen where he found his gran,complete,kichen,kitchen,,1,1,0
+gnhk_0002,images/gnhk_0002.jpg,GNHK,en,sample_gnhk_0002,sounding them out to himsef.,sounding them out to himself.,complete,himsef,himself,,1,1,0
+gnhk_0003,images/gnhk_0003.jpg,GNHK,en,sample_gnhk_0003,carbon reduction / emision,carbon reduction / emission,complete,emision,emission,,1,1,0
+gnhk_0004,images/gnhk_0004.jpg,GNHK,en,sample_gnhk_0004,"the collumn method, He was","the column method, He was",complete,collumn,column,,1,1,0
+gnhk_0005,images/gnhk_0005.jpg,GNHK,en,sample_gnhk_0005,2 - Enroling the men and women into,2 - Enrolling the men and women into,complete,enroling,Enrolling,,1,1,0
+gnhk_0006,images/gnhk_0006.jpg,GNHK,en,sample_gnhk_0006,excat point in the text,exact point in the text,complete,excat,exact,,1,1,0
+gnhk_0007,images/gnhk_0007.jpg,GNHK,en,sample_gnhk_0007,encourage to get empowerd it,encourage to get empowered it,complete,empowerd,empowered,,1,1,0
+gnhk_0008,images/gnhk_0008.jpg,GNHK,en,sample_gnhk_0008,Figure 5: The Project Constrainst Triangle .,Figure 5: The Project Constraints Triangle .,complete,constrainst,Constraints,,1,1,0
+gnhk_0009,images/gnhk_0009.jpg,GNHK,en,sample_gnhk_0009,Finaly pt. becoming Insulin dependent.,Finally pt. becoming Insulin dependent.,complete,finaly,Finally,,1,1,0
+gnhk_0010,images/gnhk_0010.jpg,GNHK,en,sample_gnhk_0010,2. Prefferred Stock (non-cumulative),2. Preferred Stock (non-cumulative),complete,Prefferred,Preferred,,1,1,0
+gnhk_0011,images/gnhk_0011.jpg,GNHK,en,sample_gnhk_0011,carbon reduction / emision,carbon reduction / emission,complete,emision,emission,,1,1,0
+gnhk_0012,images/gnhk_0012.jpg,GNHK,en,sample_gnhk_0012,"To Understand the triple Constrainst, picture a triangle","To Understand the triple Constraints, picture a triangle",complete,constrainst,Constraints,,1,1,0
+gnhk_0013,images/gnhk_0013.jpg,GNHK,en,sample_gnhk_0013,China to broden his horizons.,China to broaden his horizons.,complete,broden,broaden,,1,1,0
+gnhk_0014,images/gnhk_0014.jpg,GNHK,en,sample_gnhk_0014,It's a lovely wedding. Everyone enjoy it. I hope the happinest love,It's a lovely wedding. Everyone enjoy it. I hope the happiest love,complete,happinest,happiest,,1,1,0
+prolific_de_0001,images/prolific_de_0001.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Alle haben ihn geseen.,Alle haben ihn gesehen.,complete,geseen,gesehen,,1,1,0
+prolific_de_0002,images/prolific_de_0002.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Der Karton hat sich bewekt,Der Karton hat sich bewegt,complete,bewekt,bewegt,,1,1,0
+prolific_de_0003,images/prolific_de_0003.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Im Herbst liegt überal buntes Laub.,Im Herbst liegt überall buntes Laub.,complete,überal,überall,,1,1,0
+prolific_de_0004,images/prolific_de_0004.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Ich war total nervos.,Ich war total nervös.,complete,nervos,nervös,,1,1,0
+prolific_de_0005,images/prolific_de_0005.png,Prolific DE,de,prolific_de_8249155c5813ec528141,In der Müle wird das Mehl gemahlen.,In der Mühle wird das Mehl gemahlen.,complete,Müle,Mühle,,1,1,0
+prolific_de_0006,images/prolific_de_0006.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Früher habe ich das Xylophon gespilt.,Früher habe ich das Xylophon gespielt.,complete,gespilt,gespielt,,1,1,0
+prolific_de_0007,images/prolific_de_0007.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Der Ozen isd blau unt endlos.,Der Ozean ist blau und endlos.,complete,Ozen isd|unt,Ozean ist|und,,2,2,0
+prolific_de_0008,images/prolific_de_0008.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Bestimt hast du viel zu erzählen.,Bestimmt hast du viel zu erzählen.,complete,Bestimt,Bestimmt,,1,1,0
+prolific_de_0009,images/prolific_de_0009.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Meine Familie wil dich auch besuhen.,Meine Familie will dich auch besuchen.,complete,wil|besuhen,will|besuchen,,2,2,0
+prolific_de_0010,images/prolific_de_0010.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Neue Gebeude wurden angebaut.,Neue Gebäude wurden angebaut.,complete,Gebeude,Gebäude,,1,1,0
+prolific_de_0011,images/prolific_de_0011.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Studentten arbeiten hart für ihre Ziele.,Studenten arbeiten hart für ihre Ziele.,complete,Studentten,Studenten,,1,1,0
+prolific_de_0012,images/prolific_de_0012.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Der alte Opa ging zum Funtbüro.,Der alte Opa ging zum Fundbüro.,complete,Funtbüro,Fundbüro,,1,1,0
+prolific_de_0013,images/prolific_de_0013.png,Prolific DE,de,prolific_de_8249155c5813ec528141,Schnel maht sie die Tür auf.,Schnell macht sie die Tür auf.,complete,Schnel maht,Schnell macht,,1,1,0
+prolific_de_0014,images/prolific_de_0014.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Leztes Jahr habe ich mein Abitur gemacht.,Letztes Jahr habe ich mein Abitur gemacht.,complete,Leztes,Letztes,,1,1,0
+prolific_de_0015,images/prolific_de_0015.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Die Feuerwer löscht Feuer.,Die Feuerwehr löscht Feuer.,complete,Feuerwer,Feuerwehr,,1,1,0
+prolific_de_0016,images/prolific_de_0016.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Der Mann kann nich gud kochen.,Der Mann kann nicht gut kochen.,complete,nich gud,nicht gut,,1,1,0
+prolific_de_0017,images/prolific_de_0017.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Im nächsten Jar möchte ich sie besuchen.,Im nächsten Jahr möchte ich sie besuchen.,complete,Jar,Jahr,,1,1,0
+prolific_de_0018,images/prolific_de_0018.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Man soll sich entweder orintieren oder zurukkehren.,Man soll sich entweder orientieren oder zurückkehren.,complete,orintieren|zurukkehren,orientieren|zurückkehren,,2,2,0
+prolific_de_0019,images/prolific_de_0019.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Mein Sohn wolte eine Kätze haben.,Mein Sohn wollte eine Katze haben.,complete,wolte|Kätze,wollte|Katze,,2,2,0
+prolific_de_0020,images/prolific_de_0020.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Das Esen war auch schlecht.,Das Essen war auch schlecht.,complete,Esen,Essen,,1,1,0
+prolific_de_0021,images/prolific_de_0021.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Die Quale treibt durch das Meer.,Die Qualle treibt durch das Meer.,complete,Quale,Qualle,,1,1,0
+prolific_de_0022,images/prolific_de_0022.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Die Ameisse trägt eine große Last.,Die Ameise trägt eine große Last.,complete,Ameisse,Ameise,,1,1,0
+prolific_de_0023,images/prolific_de_0023.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Der Staubsauger gink nicht mehr.,Der Staubsauger ging nicht mehr.,complete,gink,ging,,1,1,0
+prolific_de_0024,images/prolific_de_0024.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Ich ruffe dich heute an.,Ich rufe dich heute an.,complete,ruffe,rufe,,1,1,0
+prolific_de_0025,images/prolific_de_0025.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Ich konte auch kein Deutsh lernen.,Ich konnte auch kein Deutsch lernen.,complete,konte|Deutsh,konnte|Deutsch,,2,2,0
+prolific_de_0026,images/prolific_de_0026.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Die Flige surt um den Mülleimer.,Die Fliege surrt um den Mülleimer.,complete,Flige surt,Fliege surrt,,1,1,0
+prolific_de_0027,images/prolific_de_0027.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Der Bus fert los.,Der Bus fährt los.,complete,fert,fährt,,1,1,0
+prolific_de_0028,images/prolific_de_0028.png,Prolific DE,de,prolific_de_89f23878d4f709facaa6,Architektur prägt unser Leeben.,Architektur prägt unser Leben.,complete,Leeben,Leben,,1,1,0
+prolific_de_0029,images/prolific_de_0029.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ein Blik sagt mehr.,Ein Blick sagt mehr.,complete,Blik,Blick,,1,1,0
+prolific_de_0030,images/prolific_de_0030.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ich hatte kein eigenes Zimer.,Ich hatte kein eigenes Zimmer.,complete,Zimer,Zimmer,,1,1,0
+prolific_de_0031,images/prolific_de_0031.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Lange Zait hapen wir nicht gesprochen.,Lange Zeit haben wir nicht gesprochen.,complete,Zait hapen,Zeit haben,,1,1,0
+prolific_de_0032,images/prolific_de_0032.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Die Brüke überspannt den Fluss.,Die Brücke überspannt den Fluss.,complete,Brüke,Brücke,,1,1,0
+prolific_de_0033,images/prolific_de_0033.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ich kan flexibel arbeiten.,Ich kann flexibel arbeiten.,complete,kan,kann,,1,1,0
+prolific_de_0034,images/prolific_de_0034.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Villeicht können wir nächstes Mal zusamen hinfahren.,Vielleicht können wir nächstes Mal zusammen hinfahren.,complete,Villeicht|zusamen,Vielleicht|zusammen,,2,2,0
+prolific_de_0035,images/prolific_de_0035.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Nebenjobs sind für viele Studentten notwendig.,Nebenjobs sind für viele Studenten notwendig.,complete,Studentten,Studenten,,1,1,0
+prolific_de_0036,images/prolific_de_0036.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Als Erstes möchte ich mich vorstelen.,Als Erstes möchte ich mich vorstellen.,complete,vorstelen,vorstellen,,1,1,0
+prolific_de_0037,images/prolific_de_0037.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Du kannst zu Fuß bis dorthin geen.,Du kannst zu Fuß bis dorthin gehen.,complete,geen,gehen,,1,1,0
+prolific_de_0038,images/prolific_de_0038.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Wir sind zwei Erwachsene unt zwei Kinder.,Wir sind zwei Erwachsene und zwei Kinder.,complete,unt,und,,1,1,0
+prolific_de_0039,images/prolific_de_0039.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ich bin sehr zufriden.,Ich bin sehr zufrieden.,complete,zufriden,zufrieden,,1,1,0
+prolific_de_0040,images/prolific_de_0040.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Die Zaitung erscheint wöhentlich.,Die Zeitung erscheint wöchentlich.,complete,Zaitung|wöhentlich,Zeitung|wöchentlich,,2,2,0
+prolific_de_0041,images/prolific_de_0041.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ich wil mit meiner Freundin schwimen gehen.,Ich will mit meiner Freundin schwimmen gehen.,complete,wil|schwimen,will|schwimmen,,2,2,0
+prolific_de_0042,images/prolific_de_0042.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Naturlich wolte ich mit dem Zug fahren.,Natürlich wollte ich mit dem Zug fahren.,complete,Naturlich wolte,Natürlich wollte,,1,1,0
+prolific_de_0043,images/prolific_de_0043.png,Prolific DE,de,prolific_de_1bddb5d4c4c5aac9d26d,Ich habe großen Hunger auf Doner.,Ich habe großen Hunger auf Döner.,complete,Doner,Döner,,1,1,0
+prolific_de_0044,images/prolific_de_0044.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Er wollte mich besuhen.,Er wollte mich besuchen.,complete,besuhen,besuchen,,1,1,0
+prolific_de_0045,images/prolific_de_0045.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Alle waren geschokt und traurig.,Alle waren geschockt und traurig.,complete,geschokt,geschockt,,1,1,0
+prolific_de_0046,images/prolific_de_0046.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Die Hundeleine isd in der Luft.,Die Hundeleine ist in der Luft.,complete,isd,ist,,1,1,0
+prolific_de_0047,images/prolific_de_0047.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Prufungen testen das Gelernte,Prüfungen testen das Gelernte,complete,Prufungen,Prüfungen,,1,1,0
+prolific_de_0048,images/prolific_de_0048.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Der Staupsauger ist voll.,Der Staubsauger ist voll.,complete,Staupsauger,Staubsauger,,1,1,0
+prolific_de_0049,images/prolific_de_0049.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Es wird mir sehr gud gefalen.,Es wird mir sehr gut gefallen.,complete,gud gefalen,gut gefallen,,1,1,0
+prolific_de_0050,images/prolific_de_0050.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Ich wunsche dir eine sehr gute Reise.,Ich wünsche dir eine sehr gute Reise.,complete,wunsche,wünsche,,1,1,0
+prolific_de_0051,images/prolific_de_0051.png,Prolific DE,de,prolific_de_20a469109f16df930a9d,Der Maulwurf grebt sih durch die Erde.,Der Maulwurf gräbt sich durch die Erde.,complete,grebt sih,gräbt sich,,1,1,0
+prolific_de_0052,images/prolific_de_0052.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Der Frosch landet auf einem Blat.,Der Frosch landet auf einem Blatt.,complete,Blat,Blatt,,1,1,0
+prolific_de_0053,images/prolific_de_0053.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Wir könen zusamen einkaufen und kochen.,Wir können zusammen einkaufen und kochen.,complete,könen zusamen,können zusammen,,1,1,0
+prolific_de_0054,images/prolific_de_0054.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Die Vögel singen heute sehr laud.,Die Vögel singen heute sehr laut.,complete,laud,laut,,1,1,0
+prolific_de_0055,images/prolific_de_0055.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Meine Tastatur ist ziemlich drekig.,Meine Tastatur ist ziemlich dreckig.,complete,drekig,dreckig,,1,1,0
+prolific_de_0056,images/prolific_de_0056.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Sie ist weinend nach Hause gekomen.,Sie ist weinend nach Hause gekommen.,complete,gekomen,gekommen,,1,1,0
+prolific_de_0057,images/prolific_de_0057.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Das Eis ist kaput.,Das Eis ist kaputt.,complete,kaput,kaputt,,1,1,0
+prolific_de_0058,images/prolific_de_0058.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Der Bus fuhr an die nechste Haltestelle.,Der Bus fuhr an die nächste Haltestelle.,complete,nechste,nächste,,1,1,0
+prolific_de_0059,images/prolific_de_0059.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Ich brauche jets eine Wohnung.,Ich brauche jetzt eine Wohnung.,complete,jets,jetzt,,1,1,0
+prolific_de_0060,images/prolific_de_0060.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Malerei fengt Momente der Schönheit ein.,Malerei fängt Momente der Schönheit ein.,complete,fengt,fängt,,1,1,0
+prolific_de_0061,images/prolific_de_0061.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Sein Schwanz wakelt hin unt her.,Sein Schwanz wackelt hin und her.,complete,wakelt|unt,wackelt|und,,2,2,0
+prolific_de_0062,images/prolific_de_0062.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Die Kukucksuhr schlägt die Stunde.,Die Kuckucksuhr schlägt die Stunde.,complete,Kukucksuhr,Kuckucksuhr,,1,1,0
+prolific_de_0063,images/prolific_de_0063.png,Prolific DE,de,prolific_de_cee968dd811bfd408603,Wir hapen gemeinsam gekocht und gegesen.,Wir haben gemeinsam gekocht und gegessen.,complete,hapen|gegesen,haben|gegessen,,2,2,0
+prolific_de_0064,images/prolific_de_0064.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Ich kan nur bis Januar bleiben.,Ich kann nur bis Januar bleiben.,complete,kan,kann,,1,1,0
+prolific_de_0065,images/prolific_de_0065.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Der Bus hilt an.,Der Bus hielt an.,complete,hilt,hielt,,1,1,0
+prolific_de_0066,images/prolific_de_0066.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Ich möchte die Kaze sehen.,Ich möchte die Katze sehen.,complete,Kaze,Katze,,1,1,0
+prolific_de_0067,images/prolific_de_0067.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Die Sonne scheint am Himel.,Die Sonne scheint am Himmel.,complete,Himel,Himmel,,1,1,0
+prolific_de_0068,images/prolific_de_0068.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Leztes Jar habe ich Deutsch gelernt.,Letztes Jahr habe ich Deutsch gelernt.,complete,Leztes Jar,Letztes Jahr,,1,1,0
+prolific_de_0069,images/prolific_de_0069.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Bibliotheken biten Zugang zu Büchern.,Bibliotheken bieten Zugang zu Büchern.,complete,biten,bieten,,1,1,0
+prolific_de_0070,images/prolific_de_0070.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Das Reh sprinkt elegant über den Zaun.,Das Reh springt elegant über den Zaun.,complete,sprinkt,springt,,1,1,0
+prolific_de_0071,images/prolific_de_0071.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Ich würde gerne auch einen Deutshkurs besuhen.,Ich würde gerne auch einen Deutschkurs besuchen.,complete,Deutshkurs besuhen,Deutschkurs besuchen,,1,1,0
+prolific_de_0072,images/prolific_de_0072.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Handwerk zeikt die Fertigkeiten des Menschen.,Handwerk zeigt die Fertigkeiten des Menschen.,complete,zeikt,zeigt,,1,1,0
+prolific_de_0073,images/prolific_de_0073.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Kabaret bringt Humor in den Alltag.,Kabarett bringt Humor in den Alltag.,complete,Kabaret,Kabarett,,1,1,0
+prolific_de_0074,images/prolific_de_0074.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Sie wolte nach Hause.,Sie wollte nach Hause.,complete,wolte,wollte,,1,1,0
+prolific_de_0075,images/prolific_de_0075.png,Prolific DE,de,prolific_de_c45fc72109cfeb9f695d,Kazenfutter und Milch habe ich gekauft.,Katzenfutter und Milch habe ich gekauft.,complete,Kazenfutter,Katzenfutter,,1,1,0
+prolific_de_0076,images/prolific_de_0076.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Ich ese gerne Piza mit viel Käse.,Ich esse gerne Pizza mit viel Käse.,complete,ese|Piza,esse|Pizza,,2,2,0
+prolific_de_0077,images/prolific_de_0077.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Draußen fligt ein Vogel.,Draußen fliegt ein Vogel.,complete,fligt,fliegt,,1,1,0
+prolific_de_0078,images/prolific_de_0078.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Die beiden haten die Hände hoch.,Die beiden hatten die Hände hoch.,complete,haten,hatten,,1,1,0
+prolific_de_0079,images/prolific_de_0079.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Ein warmer Tee wermt.,Ein warmer Tee wärmt.,complete,wermt,wärmt,,1,1,0
+prolific_de_0080,images/prolific_de_0080.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Der Hund belt sehr laut.,Der Hund bellt sehr laut.,complete,belt,bellt,,1,1,0
+prolific_de_0081,images/prolific_de_0081.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Ich höre gerne laud Musik.,Ich höre gerne laut Musik.,complete,laud,laut,,1,1,0
+prolific_de_0082,images/prolific_de_0082.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Mein Mann unt ich arbeiten sehr viel.,Mein Mann und ich arbeiten sehr viel.,complete,unt,und,,1,1,0
+prolific_de_0083,images/prolific_de_0083.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Ich werde zwei Wohen dort verbringen.,Ich werde zwei Wochen dort verbringen.,complete,Wohen,Wochen,,1,1,0
+prolific_de_0084,images/prolific_de_0084.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Sie sah zimlich traurig aus.,Sie sah ziemlich traurig aus.,complete,zimlich,ziemlich,,1,1,0
+prolific_de_0085,images/prolific_de_0085.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Gegenseitige Toleranz ist sehr wichtich.,Gegenseitige Toleranz ist sehr wichtig.,complete,wichtich,wichtig,,1,1,0
+prolific_de_0086,images/prolific_de_0086.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Das Känguru hübft uber die Wiese.,Das Känguru hüpft über die Wiese.,complete,hübft uber,hüpft über,,1,1,0
+prolific_de_0087,images/prolific_de_0087.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Der Bus war zu schnel.,Der Bus war zu schnell.,complete,schnel,schnell,,1,1,0
+prolific_de_0088,images/prolific_de_0088.png,Prolific DE,de,prolific_de_ce3af7a7c5c1b99a488b,Du must nur eine Deke dabei haben.,Du musst nur eine Decke dabei haben.,complete,must|Deke,musst|Decke,,2,2,0
+prolific_de_0089,images/prolific_de_0089.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Tanz erzehlt Geschichten ohne Worte.,Tanz erzählt Geschichten ohne Worte.,complete,erzehlt,erzählt,,1,1,0
+prolific_de_0090,images/prolific_de_0090.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Fische könen meistens sehr gut schwimen.,Fische können meistens sehr gut schwimmen.,complete,könen|schwimen,können|schwimmen,,2,2,0
+prolific_de_0091,images/prolific_de_0091.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Inerhalb der Stadt braucht man kein Auto.,Innerhalb der Stadt braucht man kein Auto.,complete,Inerhalb,Innerhalb,,1,1,0
+prolific_de_0092,images/prolific_de_0092.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,An dem dritten Tag musten wir aufräumen.,An dem dritten Tag mussten wir aufräumen.,complete,musten,mussten,,1,1,0
+prolific_de_0093,images/prolific_de_0093.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Meine Gastfamilie war nämlich nich sehr freundlich.,Meine Gastfamilie war nämlich nicht sehr freundlich.,complete,nich,nicht,,1,1,0
+prolific_de_0094,images/prolific_de_0094.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Der Wint weht sanft.,Der Wind weht sanft.,complete,Wint,Wind,,1,1,0
+prolific_de_0095,images/prolific_de_0095.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Ich würde mit dir telefoniren.,Ich würde mit dir telefonieren.,complete,telefoniren,telefonieren,,1,1,0
+prolific_de_0096,images/prolific_de_0096.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Die Grille zirpt frölich im Gras.,Die Grille zirpt fröhlich im Gras.,complete,frölich,fröhlich,,1,1,0
+prolific_de_0097,images/prolific_de_0097.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Sicher ist es nicht einffach.,Sicher ist es nicht einfach.,complete,einffach,einfach,,1,1,0
+prolific_de_0098,images/prolific_de_0098.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Vieleicht fahren wir nächsten Sommer hin.,Vielleicht fahren wir nächsten Sommer hin.,complete,Vieleicht,Vielleicht,,1,1,0
+prolific_de_0099,images/prolific_de_0099.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Computer verarbeiten binere Daten.,Computer verarbeiten binäre Daten.,complete,binere,binäre,,1,1,0
+prolific_de_0100,images/prolific_de_0100.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Sie hat ihren Hund verlohren.,Sie hat ihren Hund verloren.,complete,verlohren,verloren,,1,1,0
+prolific_de_0101,images/prolific_de_0101.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Ihre Tränen waren vast weg.,Ihre Tränen waren fast weg.,complete,vast,fast,,1,1,0
+prolific_de_0102,images/prolific_de_0102.png,Prolific DE,de,prolific_de_f5a8ad87efce4ba7cb3e,Die Humel sumt von Blüte zu Blüte.,Die Hummel summt von Blüte zu Blüte.,complete,Humel sumt,Hummel summt,,1,1,0
+prolific_de_0103,images/prolific_de_0103.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Auf einem Hügel steht eine Blokhütte.,Auf einem Hügel steht eine Blockhütte.,complete,Blokhütte,Blockhütte,,1,1,0
+prolific_de_0104,images/prolific_de_0104.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Der Falke kreist hoch am Himel.,Der Falke kreist hoch am Himmel.,complete,Himel,Himmel,,1,1,0
+prolific_de_0105,images/prolific_de_0105.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Das Seil wackelte und wakelte.,Das Seil wackelte und wackelte.,complete,wakelte,wackelte,,1,1,0
+prolific_de_0106,images/prolific_de_0106.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Die beiden lächelten sih an.,Die beiden lächelten sich an.,complete,sih,sich,,1,1,0
+prolific_de_0107,images/prolific_de_0107.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Der ganze Bäutel ist leer.,Der ganze Beutel ist leer.,complete,Bäutel,Beutel,,1,1,0
+prolific_de_0108,images/prolific_de_0108.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Das Pferd galoppirt über die Wiese.,Das Pferd galoppiert über die Wiese.,complete,galoppirt,galoppiert,,1,1,0
+prolific_de_0109,images/prolific_de_0109.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Ich habe Deutsh im Gymnasium gelernt.,Ich habe Deutsch im Gymnasium gelernt.,complete,Deutsh,Deutsch,,1,1,0
+prolific_de_0110,images/prolific_de_0110.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Ich habe mich ser gefreut.,Ich habe mich sehr gefreut.,complete,ser,sehr,,1,1,0
+prolific_de_0111,images/prolific_de_0111.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Meine Wonung ist sehr teuer.,Meine Wohnung ist sehr teuer.,complete,Wonung,Wohnung,,1,1,0
+prolific_de_0112,images/prolific_de_0112.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Der Bus hilt nicht an.,Der Bus hielt nicht an.,complete,hilt,hielt,,1,1,0
+prolific_de_0113,images/prolific_de_0113.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Er kan Ihnen helfen.,Er kann Ihnen helfen.,complete,kan,kann,,1,1,0
+prolific_de_0114,images/prolific_de_0114.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Sie wolten eine Burg bauen.,Sie wollten eine Burg bauen.,complete,wolten,wollten,,1,1,0
+prolific_de_0115,images/prolific_de_0115.png,Prolific DE,de,prolific_de_862b6b25d7d12e097045,Fotokunst fengt flüchtige Momente ein.,Fotokunst fängt flüchtige Momente ein.,complete,fengt,fängt,,1,1,0
+prolific_de_0116,images/prolific_de_0116.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,An der Kreuzung gab es einen Unfal.,An der Kreuzung gab es einen Unfall.,complete,Unfal,Unfall,,1,1,0
+prolific_de_0117,images/prolific_de_0117.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Ich häte auch kein Wochenende frei.,Ich hätte auch kein Wochenende frei.,complete,häte,hätte,,1,1,0
+prolific_de_0118,images/prolific_de_0118.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Ich möchte auch weniger esen.,Ich möchte auch weniger essen.,complete,esen,essen,,1,1,0
+prolific_de_0119,images/prolific_de_0119.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Ein Murmeln des Baches beruigt die Gedanken.,Ein Murmeln des Baches beruhigt die Gedanken.,complete,beruigt,beruhigt,,1,1,0
+prolific_de_0120,images/prolific_de_0120.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Zum Schlus waren alle glücklich.,Zum Schluss waren alle glücklich.,complete,Schlus,Schluss,,1,1,0
+prolific_de_0121,images/prolific_de_0121.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Leider hapen Sie mir keineswegs geholfen.,Leider haben Sie mir keineswegs geholfen.,complete,hapen,haben,,1,1,0
+prolific_de_0122,images/prolific_de_0122.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Ein Lachen stekt an.,Ein Lachen steckt an.,complete,stekt,steckt,,1,1,0
+prolific_de_0123,images/prolific_de_0123.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Ein gutes Buch isd wie eine Reise.,Ein gutes Buch ist wie eine Reise.,complete,isd,ist,,1,1,0
+prolific_de_0124,images/prolific_de_0124.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Alle schauten entsezt auf den Karton.,Alle schauten entsetzt auf den Karton.,complete,entsezt,entsetzt,,1,1,0
+prolific_de_0125,images/prolific_de_0125.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Die Berenfamilie lebt im Wald.,Die Bärenfamilie lebt im Wald.,complete,Berenfamilie,Bärenfamilie,,1,1,0
+prolific_de_0126,images/prolific_de_0126.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Die Anmeldung zur Prufung erfolgt online.,Die Anmeldung zur Prüfung erfolgt online.,complete,Prufung,Prüfung,,1,1,0
+prolific_de_0127,images/prolific_de_0127.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Architektur prägt unsere Umgebunk.,Architektur prägt unsere Umgebung.,complete,Umgebunk,Umgebung,,1,1,0
+prolific_de_0128,images/prolific_de_0128.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Kunst spigelt die menschliche Kreativität wider.,Kunst spiegelt die menschliche Kreativität wider.,complete,spigelt,spiegelt,,1,1,0
+prolific_de_0129,images/prolific_de_0129.png,Prolific DE,de,prolific_de_b7fb73e2510011559db9,Sie hofte auf einen Anruf.,Sie hoffte auf einen Anruf.,complete,hofte,hoffte,,1,1,0
+prolific_de_0130,images/prolific_de_0130.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Leider kann ich nich mitt dir fahren.,Leider kann ich nicht mit dir fahren.,complete,nich mitt,nicht mit,,1,1,0
+prolific_de_0131,images/prolific_de_0131.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Du bist Fater geworden.,Du bist Vater geworden.,complete,Fater,Vater,,1,1,0
+prolific_de_0132,images/prolific_de_0132.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Schlafmangel ist ein häufiges Problem für Studentten.,Schlafmangel ist ein häufiges Problem für Studenten.,complete,Studentten,Studenten,,1,1,0
+prolific_de_0133,images/prolific_de_0133.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Ich ruffe dich sofort an.,Ich rufe dich sofort an.,complete,ruffe,rufe,,1,1,0
+prolific_de_0134,images/prolific_de_0134.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Der Hund gehort mir.,Der Hund gehört mir.,complete,gehort,gehört,,1,1,0
+prolific_de_0135,images/prolific_de_0135.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Du sollst auf meinen Hund aufpasen.,Du sollst auf meinen Hund aufpassen.,complete,aufpasen,aufpassen,,1,1,0
+prolific_de_0136,images/prolific_de_0136.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Wir trefen uns am nächsten Samstag.,Wir treffen uns am nächsten Samstag.,complete,trefen,treffen,,1,1,0
+prolific_de_0137,images/prolific_de_0137.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Das Schnabeltir schwimmt im Fluss.,Das Schnabeltier schwimmt im Fluss.,complete,Schnabeltir,Schnabeltier,,1,1,0
+prolific_de_0138,images/prolific_de_0138.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Die Eidechse sont sich auf dem Felsen.,Die Eidechse sonnt sich auf dem Felsen.,complete,sont,sonnt,,1,1,0
+prolific_de_0139,images/prolific_de_0139.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Das Schaf stehd auf der Wiese.,Das Schaf steht auf der Wiese.,complete,stehd,steht,,1,1,0
+prolific_de_0140,images/prolific_de_0140.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Praktika bieten Einblike in die Arbeitswelt.,Praktika bieten Einblicke in die Arbeitswelt.,complete,Einblike,Einblicke,,1,1,0
+prolific_de_0141,images/prolific_de_0141.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Ein Vogel sizt in einem hohen Baum.,Ein Vogel sitzt in einem hohen Baum.,complete,sizt,sitzt,,1,1,0
+prolific_de_0142,images/prolific_de_0142.png,Prolific DE,de,prolific_de_e2c14ec46e39529218a7,Ich fand die deutsche Kuche am besten.,Ich fand die deutsche Küche am besten.,complete,Kuche,Küche,,1,1,0
+prolific_de_0143,images/prolific_de_0143.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Die Sängerin hat eine tole Stime.,Die Sängerin hat eine tolle Stimme.,complete,tole Stime,tolle Stimme,,1,1,0
+prolific_de_0144,images/prolific_de_0144.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Sie hate sich Sorgen gemacht.,Sie hatte sich Sorgen gemacht.,complete,hate,hatte,,1,1,0
+prolific_de_0145,images/prolific_de_0145.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Fotografie dokumentirt das Leben.,Fotografie dokumentiert das Leben.,complete,dokumentirt,dokumentiert,,1,1,0
+prolific_de_0146,images/prolific_de_0146.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Der Himel ist heute ser bewölkt.,Der Himmel ist heute sehr bewölkt.,complete,Himel|ser,Himmel|sehr,,2,2,0
+prolific_de_0147,images/prolific_de_0147.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Ein Mann geht über eine Hängebrüke.,Ein Mann geht über eine Hängebrücke.,complete,Hängebrüke,Hängebrücke,,1,1,0
+prolific_de_0148,images/prolific_de_0148.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Das Seil wird plözlich locker.,Das Seil wird plötzlich locker.,complete,plözlich,plötzlich,,1,1,0
+prolific_de_0149,images/prolific_de_0149.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Ich habe eine Stelle im Restaurant bekomen.,Ich habe eine Stelle im Restaurant bekommen.,complete,bekomen,bekommen,,1,1,0
+prolific_de_0150,images/prolific_de_0150.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Um die Kinder habe ich mich gekümert.,Um die Kinder habe ich mich gekümmert.,complete,gekümert,gekümmert,,1,1,0
+prolific_de_0151,images/prolific_de_0151.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Künstliche Inteligenz lernt von Daten.,Künstliche Intelligenz lernt von Daten.,complete,Inteligenz,Intelligenz,,1,1,0
+prolific_de_0152,images/prolific_de_0152.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Der Vogel hate sich sogar erschroken.,Der Vogel hatte sich sogar erschrocken.,complete,hate|erschroken,hatte|erschrocken,,2,2,0
+prolific_de_0153,images/prolific_de_0153.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Hofentlich ist alles gut.,Hoffentlich ist alles gut.,complete,Hofentlich,Hoffentlich,,1,1,0
+prolific_de_0154,images/prolific_de_0154.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Die Fledermaus flatert durch die Nacht.,Die Fledermaus flattert durch die Nacht.,complete,flatert,flattert,,1,1,0
+prolific_de_0155,images/prolific_de_0155.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Der Regen praselt auf das Dach.,Der Regen prasselt auf das Dach.,complete,praselt,prasselt,,1,1,0
+prolific_de_0156,images/prolific_de_0156.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Heute wolen sie einen Turm bauen.,Heute wollen sie einen Turm bauen.,complete,wolen,wollen,,1,1,0
+prolific_de_0157,images/prolific_de_0157.png,Prolific DE,de,prolific_de_e8506b6dcd2def9f72e2,Wir könen uns morgen treffen.,Wir können uns morgen treffen.,complete,könen,können,,1,1,0
+prolific_de_0158,images/prolific_de_0158.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Ich darf jets mehr arbeiten und verdinen.,Ich darf jetzt mehr arbeiten und verdienen.,complete,jets|verdinen,jetzt|verdienen,,2,2,0
+prolific_de_0159,images/prolific_de_0159.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Der Igel rolt sich in eine Kugel.,Der Igel rollt sich in eine Kugel.,complete,rolt,rollt,,1,1,0
+prolific_de_0160,images/prolific_de_0160.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Beide haben eine Überaschung bekommen.,Beide haben eine Überraschung bekommen.,complete,Überaschung,Überraschung,,1,1,0
+prolific_de_0161,images/prolific_de_0161.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Bei meiner Arbeit haben wir neue Koleginnen.,Bei meiner Arbeit haben wir neue Kolleginnen.,complete,Koleginnen,Kolleginnen,,1,1,0
+prolific_de_0162,images/prolific_de_0162.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Als Kauffrau habe ich nich gearbeitet.,Als Kauffrau habe ich nicht gearbeitet.,complete,nich,nicht,,1,1,0
+prolific_de_0163,images/prolific_de_0163.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Oper vereint Musik unt Drama.,Oper vereint Musik und Drama.,complete,unt,und,,1,1,0
+prolific_de_0164,images/prolific_de_0164.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Ein Sonnenstral durchbricht die Wolken.,Ein Sonnenstrahl durchbricht die Wolken.,complete,Sonnenstral,Sonnenstrahl,,1,1,0
+prolific_de_0165,images/prolific_de_0165.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,In der Schnur war ein kleiner Knoden.,In der Schnur war ein kleiner Knoten.,complete,Knoden,Knoten,,1,1,0
+prolific_de_0166,images/prolific_de_0166.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Die Wonung muss eine neue Kuche haben.,Die Wohnung muss eine neue Küche haben.,complete,Wonung|Kuche,Wohnung|Küche,,2,2,0
+prolific_de_0167,images/prolific_de_0167.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Alles war wieder drekig.,Alles war wieder dreckig.,complete,drekig,dreckig,,1,1,0
+prolific_de_0168,images/prolific_de_0168.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Alle sind glüklich und spilen zusammen.,Alle sind glücklich und spielen zusammen.,complete,glüklich|spilen,glücklich|spielen,,2,2,0
+prolific_de_0169,images/prolific_de_0169.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Ich fand das nicht sinnvol.,Ich fand das nicht sinnvoll.,complete,sinnvol,sinnvoll,,1,1,0
+prolific_de_0170,images/prolific_de_0170.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Ich war sehr unzufriden.,Ich war sehr unzufrieden.,complete,unzufriden,unzufrieden,,1,1,0
+prolific_de_0171,images/prolific_de_0171.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Die Spinne baut ihr Nez im Garten.,Die Spinne baut ihr Netz im Garten.,complete,Nez,Netz,,1,1,0
+prolific_de_0172,images/prolific_de_0172.png,Prolific DE,de,prolific_de_05300e387f2ff031c79d,Ein Praktikum konte ich Anfang April antreten,Ein Praktikum konnte ich Anfang April antreten,complete,konte,konnte,,1,1,0
+prolific_de_0173,images/prolific_de_0173.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Ich habe vile Fragen für dich.,Ich habe viele Fragen für dich.,complete,vile,viele,,1,1,0
+prolific_de_0174,images/prolific_de_0174.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Die Situation in der Gastfamilie war schreklich.,Die Situation in der Gastfamilie war schrecklich.,complete,schreklich,schrecklich,,1,1,0
+prolific_de_0175,images/prolific_de_0175.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Sie lässt den Füller falen.,Sie lässt den Füller fallen.,complete,falen,fallen,,1,1,0
+prolific_de_0176,images/prolific_de_0176.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Ein Regenbogen zaubert Farben in den Himel.,Ein Regenbogen zaubert Farben in den Himmel.,complete,Himel,Himmel,,1,1,0
+prolific_de_0177,images/prolific_de_0177.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Das Wisel huscht durch das Gebüsch.,Das Wiesel huscht durch das Gebüsch.,complete,Wisel,Wiesel,,1,1,0
+prolific_de_0178,images/prolific_de_0178.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Ein guter Film sorgt für Unterhaltunk.,Ein guter Film sorgt für Unterhaltung.,complete,Unterhaltunk,Unterhaltung,,1,1,0
+prolific_de_0179,images/prolific_de_0179.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Der Dachs grebt eine Höhle im Boden.,Der Dachs gräbt eine Höhle im Boden.,complete,grebt,gräbt,,1,1,0
+prolific_de_0180,images/prolific_de_0180.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Der Mehdrescher hilft bei der Ernte.,Der Mähdrescher hilft bei der Ernte.,complete,Mehdrescher,Mähdrescher,,1,1,0
+prolific_de_0181,images/prolific_de_0181.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Der Bäutel fällt runter.,Der Beutel fällt runter.,complete,Bäutel,Beutel,,1,1,0
+prolific_de_0182,images/prolific_de_0182.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Der Frosch sprinkt uber die Mauer.,Der Frosch springt über die Mauer.,complete,sprinkt uber,springt über,,1,1,0
+prolific_de_0183,images/prolific_de_0183.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Ich möchte morgen zusamen schwimmen geen.,Ich möchte morgen zusammen schwimmen gehen.,complete,zusamen|geen,zusammen|gehen,,2,2,0
+prolific_de_0184,images/prolific_de_0184.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Ich finde dieses Tema sehr interesant.,Ich finde dieses Thema sehr interessant.,complete,Tema|interesant,Thema|interessant,,2,2,0
+prolific_de_0185,images/prolific_de_0185.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Die Erderwärmung isd gefährlich.,Die Erderwärmung ist gefährlich.,complete,isd,ist,,1,1,0
+prolific_de_0186,images/prolific_de_0186.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Die Libele fligt elegant über das Wasser.,Die Libelle fliegt elegant über das Wasser.,complete,Libele fligt,Libelle fliegt,,1,1,0
+prolific_de_0187,images/prolific_de_0187.png,Prolific DE,de,prolific_de_90f3b279a17cb9cd94cb,Der Oter schwimmt geschikt im Fluss.,Der Otter schwimmt geschickt im Fluss.,complete,Oter|geschikt,Otter|geschickt,,2,2,0
+prolific_de_0188,images/prolific_de_0188.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Das Waser im Fluss ist eiskalt.,Das Wasser im Fluss ist eiskalt.,complete,Waser,Wasser,,1,1,0
+prolific_de_0189,images/prolific_de_0189.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Ich möchte am Samstag schwimen gehen.,Ich möchte am Samstag schwimmen gehen.,complete,schwimen,schwimmen,,1,1,0
+prolific_de_0190,images/prolific_de_0190.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Nach einer Weile ist der Bus angekomen.,Nach einer Weile ist der Bus angekommen.,complete,angekomen,angekommen,,1,1,0
+prolific_de_0191,images/prolific_de_0191.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Musik ist die universele Sprache der Menscheit.,Musik ist die universelle Sprache der Menschheit.,complete,universele|Menscheit,universelle|Menschheit,,2,2,0
+prolific_de_0192,images/prolific_de_0192.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Die Gazele springt elegant über die Stepe.,Die Gazelle springt elegant über die Steppe.,complete,Gazele|Stepe,Gazelle|Steppe,,2,2,0
+prolific_de_0193,images/prolific_de_0193.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Du musst sie nicht vermisen.,Du musst sie nicht vermissen.,complete,vermisen,vermissen,,1,1,0
+prolific_de_0194,images/prolific_de_0194.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Kinder müsen in der Schule lernen.,Kinder müssen in der Schule lernen.,complete,müsen,müssen,,1,1,0
+prolific_de_0195,images/prolific_de_0195.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Am Nachmitag muss sie einkaufen.,Am Nachmittag muss sie einkaufen.,complete,Nachmitag,Nachmittag,,1,1,0
+prolific_de_0196,images/prolific_de_0196.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Wir trefen uns am nächsten Sonntag.,Wir treffen uns am nächsten Sonntag.,complete,trefen,treffen,,1,1,0
+prolific_de_0197,images/prolific_de_0197.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Der Hase hopelt durch den Wald.,Der Hase hoppelt durch den Wald.,complete,hopelt,hoppelt,,1,1,0
+prolific_de_0198,images/prolific_de_0198.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Ein Flüstern im Wind verweht Geheimnise.,Ein Flüstern im Wind verweht Geheimnisse.,complete,Geheimnise,Geheimnisse,,1,1,0
+prolific_de_0199,images/prolific_de_0199.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Ich möchte nach Hause komen.,Ich möchte nach Hause kommen.,complete,komen,kommen,,1,1,0
+prolific_de_0200,images/prolific_de_0200.png,Prolific DE,de,prolific_de_dd06cf1558092224cca7,Im Somer habe ich viel Zeit.,Im Sommer habe ich viel Zeit.,complete,Somer,Sommer,,1,1,0
+prolific_de_0201,images/prolific_de_0201.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Der Zoodirektor get in den Ruhestand,Der Zoodirektor geht in den Ruhestand,complete,get,geht,,1,1,0
+prolific_de_0202,images/prolific_de_0202.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Meine Oma trinkt eine Tase Tee,Meine Oma trinkt eine Tasse Tee,complete,Tase,Tasse,,1,1,0
+prolific_de_0203,images/prolific_de_0203.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Kuh grast auf der Waide,Die Kuh grast auf der Weide,complete,Waide,Weide,,1,1,0
+prolific_de_0204,images/prolific_de_0204.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Möwe kreischt laud am Strand,Die Möwe kreischt laut am Strand,complete,laud,laut,,1,1,0
+prolific_de_0205,images/prolific_de_0205.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Der Laden heißt Funtbüro,Der Laden heißt Fundbüro,complete,Funtbüro,Fundbüro,,1,1,0
+prolific_de_0206,images/prolific_de_0206.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Das Fenster zerfält in viele kleine Stüke,Das Fenster zerfällt in viele kleine Stücke,complete,zerfält|Stüke,zerfällt|Stücke,,2,2,0
+prolific_de_0207,images/prolific_de_0207.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Man solte die fremden Kulturen Kenenlernen,Man sollte die fremden Kulturen kennenlernen,complete,solte|Kenenlernen,sollte|kennenlernen,,2,2,0
+prolific_de_0208,images/prolific_de_0208.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Spizmaus huscht durch das Gebüsch,Die Spitzmaus huscht durch das Gebüsch,complete,Spizmaus,Spitzmaus,,1,1,0
+prolific_de_0209,images/prolific_de_0209.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Möbel sind aus helem Holz,Die Möbel sind aus hellem Holz,complete,helem,hellem,,1,1,0
+prolific_de_0210,images/prolific_de_0210.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Ein Gedicht berürt das Herz,Ein Gedicht berührt das Herz,complete,berürt,berührt,,1,1,0
+prolific_de_0211,images/prolific_de_0211.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Ich kan leider mein Haustir nicht mitnehmen,Ich kann leider mein Haustier nicht mitnehmen,complete,kan|Haustir,kann|Haustier,,2,2,0
+prolific_de_0212,images/prolific_de_0212.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Sterne leuchten hel am Himmel,Die Sterne leuchten hell am Himmel,complete,hel,hell,,1,1,0
+prolific_de_0213,images/prolific_de_0213.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Die Beume im Weld sind grün,Die Bäume im Wald sind grün,complete,Beume|Weld,Bäume|Wald,,2,2,0
+prolific_de_0214,images/prolific_de_0214.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Ich bin sehr flexibel unt motivirt,Ich bin sehr flexibel und motiviert,complete,unt motivirt,und motiviert,,1,1,0
+prolific_de_0215,images/prolific_de_0215.png,Prolific DE,de,prolific_de_9ddd9d26294d27dbe4f4,Ich denke oft an disch,Ich denke oft an dich,complete,disch,dich,,1,1,0
+prolific_de_0216,images/prolific_de_0216.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Ruf mich sovort an.,Ruf mich sofort an.,complete,sovort,sofort,,1,1,0
+prolific_de_0217,images/prolific_de_0217.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Der Luchs schleicht lautlos dürch den Wald.,Der Luchs schleicht lautlos durch den Wald.,complete,dürch,durch,,1,1,0
+prolific_de_0218,images/prolific_de_0218.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Du kanst aufhören zu weinen.,Du kannst aufhören zu weinen.,complete,kanst,kannst,,1,1,0
+prolific_de_0219,images/prolific_de_0219.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Mein Freunt hat gesttern ein Baby bekommen.,Mein Freund hat gestern ein Baby bekommen.,complete,Freunt|gesttern,Freund|gestern,,2,2,0
+prolific_de_0220,images/prolific_de_0220.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Der Reisebus ist voler Touristen.,Der Reisebus ist voller Touristen.,complete,voler,voller,,1,1,0
+prolific_de_0221,images/prolific_de_0221.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Für disch ist es nicht schwehr.,Für dich ist es nicht schwer.,complete,disch|schwehr,dich|schwer,,2,2,0
+prolific_de_0222,images/prolific_de_0222.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Du solst Waser und Bikini mitbringen.,Du sollst Wasser und Bikini mitbringen.,complete,solst Waser,sollst Wasser,,1,1,0
+prolific_de_0223,images/prolific_de_0223.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Kafee ist der beste Freund viler Studenten.,Kaffee ist der beste Freund vieler Studenten.,complete,Kafee|viler,Kaffee|vieler,,2,2,0
+prolific_de_0224,images/prolific_de_0224.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Draußen stehd ein großer Baum.,Draußen steht ein großer Baum.,complete,stehd,steht,,1,1,0
+prolific_de_0225,images/prolific_de_0225.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Morgen habe ich eine wichtige Prasentation.,Morgen habe ich eine wichtige Präsentation.,complete,Prasentation,Präsentation,,1,1,0
+prolific_de_0226,images/prolific_de_0226.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Der Früling bringt bunte Blumen.,Der Frühling bringt bunte Blumen.,complete,Früling,Frühling,,1,1,0
+prolific_de_0227,images/prolific_de_0227.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Du must Orangensaft mit bringen.,Du musst Orangensaft mitbringen.,complete,must|mit bringen,musst|mitbringen,,2,2,0
+prolific_de_0228,images/prolific_de_0228.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Heute kam per Post eine kommische Box.,Heute kam per Post eine komische Box.,complete,kommische,komische,,1,1,0
+prolific_de_0229,images/prolific_de_0229.png,Prolific DE,de,prolific_de_8b4491b549a42f17c042,Das Märchen faszinirt kleine Kinder.,Das Märchen fasziniert kleine Kinder.,complete,faszinirt,fasziniert,,1,1,0
+prolific_de_0230,images/prolific_de_0230.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Film isd die Kunst des bewegten Bildes.,Film ist die Kunst des bewegten Bildes.,complete,isd,ist,,1,1,0
+prolific_de_0231,images/prolific_de_0231.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Eine Stunde speter klingelt es endlich.,Eine Stunde später klingelt es endlich.,complete,speter,später,,1,1,0
+prolific_de_0232,images/prolific_de_0232.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Ich muss mein Deutsch verbesern.,Ich muss mein Deutsch verbessern.,complete,verbesern,verbessern,,1,1,0
+prolific_de_0233,images/prolific_de_0233.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Ich brauche dort eine Wonung.,Ich brauche dort eine Wohnung.,complete,Wonung,Wohnung,,1,1,0
+prolific_de_0234,images/prolific_de_0234.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Während des Studiums samelte ich Erfahrung.,Während des Studiums sammelte ich Erfahrung.,complete,samelte,sammelte,,1,1,0
+prolific_de_0235,images/prolific_de_0235.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Alle Glascherben sind geflogen.,Alle Glasscherben sind geflogen.,complete,Glascherben,Glasscherben,,1,1,0
+prolific_de_0236,images/prolific_de_0236.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Das Auto fert sehr schnell.,Das Auto fährt sehr schnell.,complete,fert,fährt,,1,1,0
+prolific_de_0237,images/prolific_de_0237.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Ein gutes Essen schmekt köstlich.,Ein gutes Essen schmeckt köstlich.,complete,schmekt,schmeckt,,1,1,0
+prolific_de_0238,images/prolific_de_0238.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,In der Stadt giebt es keinen Garten.,In der Stadt gibt es keinen Garten.,complete,giebt,gibt,,1,1,0
+prolific_de_0239,images/prolific_de_0239.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Nächsten Monat möchte ich zu euch geen.,Nächsten Monat möchte ich zu euch gehen.,complete,geen,gehen,,1,1,0
+prolific_de_0240,images/prolific_de_0240.png,Prolific DE,de,prolific_de_ee63b1602609e8001371,Poesie findet Schönheit in Sprache und Ausdruk.,Poesie findet Schönheit in Sprache und Ausdruck.,complete,Ausdruk,Ausdruck,,1,1,0
+prolific_de_0241,images/prolific_de_0241.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Meiner Famili und mir geht es gud,Meiner Familie und mir geht es gut,complete,Famili|gud,Familie|gut,,2,2,0
+prolific_de_0242,images/prolific_de_0242.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Naturlich haben wir Zait und Lust,Natürlich haben wir Zeit und Lust,complete,Naturlich|Zait,Natürlich|Zeit,,2,2,0
+prolific_de_0243,images/prolific_de_0243.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Du solst einen Bikini mitbringen,Du sollst einen Bikini mitbringen,complete,solst,sollst,,1,1,0
+prolific_de_0244,images/prolific_de_0244.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Er wolte zuerst eine Kaze haben,Er wollte zuerst eine Katze haben,complete,wolte|Kaze,wollte|Katze,,2,2,0
+prolific_de_0245,images/prolific_de_0245.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Auf der Autobahn isd heute Stau,Auf der Autobahn ist heute Stau,complete,isd,ist,,1,1,0
+prolific_de_0246,images/prolific_de_0246.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Die Miten sind dagegen sehr teuer,Die Mieten sind dagegen sehr teuer,complete,Miten,Mieten,,1,1,0
+prolific_de_0247,images/prolific_de_0247.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Ein Säufzer erleichtert die Last,Ein Seufzer erleichtert die Last,complete,Säufzer,Seufzer,,1,1,0
+prolific_de_0248,images/prolific_de_0248.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Das Eichörnchen huscht über den Ast,Das Eichhörnchen huscht über den Ast,complete,Eichörnchen,Eichhörnchen,,1,1,0
+prolific_de_0249,images/prolific_de_0249.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Einen kleinen Moment bite,Einen kleinen Moment bitte,complete,bite,bitte,,1,1,0
+prolific_de_0250,images/prolific_de_0250.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Unsere Kinder mochten einen Plaz zum Spilen,Unsere Kinder möchten einen Platz zum Spielen,complete,mochten|Plaz|Spilen,möchten|Platz|Spielen,,3,3,0
+prolific_de_0251,images/prolific_de_0251.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Ein warmes Bad entspant die Muskeln,Ein warmes Bad entspannt die Muskeln,complete,entspant,entspannt,,1,1,0
+prolific_de_0252,images/prolific_de_0252.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Ein warmes Feuer spendet Werme,Ein warmes Feuer spendet Wärme,complete,Werme,Wärme,,1,1,0
+prolific_de_0253,images/prolific_de_0253.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Das Auto fert auf der Autobahn,Das Auto fährt auf der Autobahn,complete,fert,fährt,,1,1,0
+prolific_de_0254,images/prolific_de_0254.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Boxen isd ein ser gefährlicher Sport,Boxen ist ein sehr gefährlicher Sport,complete,isd|ser,ist|sehr,,2,2,0
+prolific_de_0255,images/prolific_de_0255.png,Prolific DE,de,prolific_de_74a10f5c9174b62f6c6c,Du kanst mit ihm spaziren gehen,Du kannst mit ihm spazieren gehen,complete,kanst|spaziren,kannst|spazieren,,2,2,0
+prolific_de_0256,images/prolific_de_0256.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Der Bergipfel ist mit Schnee bedekt,Der Berggipfel ist mit Schnee bedeckt,complete,Bergipfel|bedekt,Berggipfel|bedeckt,,2,2,0
+prolific_de_0257,images/prolific_de_0257.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Letztes Jahr warren die Olympischen Spile,Letztes Jahr waren die Olympischen Spiele,complete,warren|Spile,waren|Spiele,,2,2,0
+prolific_de_0258,images/prolific_de_0258.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Meine braune Kätze schläft gerade,Meine braune Katze schläft gerade,complete,Kätze,Katze,,1,1,0
+prolific_de_0259,images/prolific_de_0259.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Sagen Sie bite den Namen des Babys,Sagen Sie bitte den Namen des Babys,complete,bite,bitte,,1,1,0
+prolific_de_0260,images/prolific_de_0260.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Mein Onkel arbeitet in einem Mobelhaus,Mein Onkel arbeitet in einem Möbelhaus,complete,Mobelhaus,Möbelhaus,,1,1,0
+prolific_de_0261,images/prolific_de_0261.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Die Bine summt um die Bluhmen,Die Biene summt um die Blumen,complete,Bine|Bluhmen,Biene|Blumen,,2,2,0
+prolific_de_0262,images/prolific_de_0262.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Der Wal schwimt majestätisch im Ozean,Der Wal schwimmt majestätisch im Ozean,complete,schwimt,schwimmt,,1,1,0
+prolific_de_0263,images/prolific_de_0263.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Das Lam hübft über die Wiese,Das Lamm hüpft über die Wiese,complete,Lam hübft,Lamm hüpft,,1,1,0
+prolific_de_0264,images/prolific_de_0264.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Sein Fänster ist zerbrochen,Sein Fenster ist zerbrochen,complete,Fänster,Fenster,,1,1,0
+prolific_de_0265,images/prolific_de_0265.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Mit Kindern habe ich wenich zu tun,Mit Kindern habe ich wenig zu tun,complete,wenich,wenig,,1,1,0
+prolific_de_0266,images/prolific_de_0266.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Der Geko klebt an der Wand,Der Gecko klebt an der Wand,complete,Geko,Gecko,,1,1,0
+prolific_de_0267,images/prolific_de_0267.png,Prolific DE,de,prolific_de_77370e26e668640bd107,Meine Kinder werden sich auh sicher freun,Meine Kinder werden sich auch sicher freuen,complete,auh|freun,auch|freuen,,2,2,0
+prolific_de_0268,images/prolific_de_0268.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Etwas später glingelte es an der Tür.,Etwas später klingelte es an der Tür.,complete,glingelte,klingelte,,1,1,0
+prolific_de_0269,images/prolific_de_0269.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Das Krokodil lauert geduldig im Waser.,Das Krokodil lauert geduldig im Wasser.,complete,Waser,Wasser,,1,1,0
+prolific_de_0270,images/prolific_de_0270.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Unser Nachbar hört wiedr laut Musik.,Unser Nachbar hört wieder laut Musik.,complete,wiedr,wieder,,1,1,0
+prolific_de_0271,images/prolific_de_0271.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Meine Tochter maht eine Ausbildung als Sekretärin.,Meine Tochter macht eine Ausbildung als Sekretärin.,complete,maht,macht,,1,1,0
+prolific_de_0272,images/prolific_de_0272.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Jedes Zimer mus einen separaten Eingang haben.,Jedes Zimmer muss einen separaten Eingang haben.,complete,Zimer mus,Zimmer muss,,1,1,0
+prolific_de_0273,images/prolific_de_0273.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Auf dem Dach könen Hubschrauber landen.,Auf dem Dach können Hubschrauber landen.,complete,könen,können,,1,1,0
+prolific_de_0274,images/prolific_de_0274.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Der Frosch hüpft gaz schnell.,Der Frosch hüpft ganz schnell.,complete,gaz,ganz,,1,1,0
+prolific_de_0275,images/prolific_de_0275.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Sie krazt sich am Kopf.,Sie kratzt sich am Kopf.,complete,krazt,kratzt,,1,1,0
+prolific_de_0276,images/prolific_de_0276.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Im Winter ligt oft Schnee draußen.,Im Winter liegt oft Schnee draußen.,complete,ligt,liegt,,1,1,0
+prolific_de_0277,images/prolific_de_0277.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Der Vogel erschrekt sich und fligt weg.,Der Vogel erschreckt sich und fliegt weg.,complete,erschrekt|fligt,erschreckt|fliegt,,2,2,0
+prolific_de_0278,images/prolific_de_0278.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Der Froch hopst auf die Mauer.,Der Frosch hopst auf die Mauer.,complete,Froch,Frosch,,1,1,0
+prolific_de_0279,images/prolific_de_0279.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Die beiden ranten hinter dem Bus her.,Die beiden rannten hinter dem Bus her.,complete,ranten,rannten,,1,1,0
+prolific_de_0280,images/prolific_de_0280.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Am Ende haben sih ale gefreut.,Am Ende haben sich alle gefreut.,complete,sih ale,sich alle,,1,1,0
+prolific_de_0281,images/prolific_de_0281.png,Prolific DE,de,prolific_de_de925908a8ff64e72e2d,Eine Herde Schafe stehd auf der Wiese.,Eine Herde Schafe steht auf der Wiese.,complete,stehd,steht,,1,1,0
+prolific_de_0282,images/prolific_de_0282.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Das Mädschen spielt im Park.,Das Mädchen spielt im Park.,complete,Mädschen,Mädchen,,1,1,0
+prolific_de_0283,images/prolific_de_0283.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Bis Ohstern sind noch zwei Monate.,Bis Ostern sind noch zwei Monate.,complete,Ohstern,Ostern,,1,1,0
+prolific_de_0284,images/prolific_de_0284.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Die Nachbarrin kriegt Angst.,Die Nachbarin kriegt Angst.,complete,Nachbarrin,Nachbarin,,1,1,0
+prolific_de_0285,images/prolific_de_0285.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Ich mus zu Hause bleibe,Ich muss zu Hause bleiben,complete,mus|bleibe,muss|bleiben,,2,2,0
+prolific_de_0286,images/prolific_de_0286.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Du hast eine sehr gute Prufung geschriben.,Du hast eine sehr gute Prüfung geschrieben.,complete,Prufung geschriben,Prüfung geschrieben,,1,1,0
+prolific_de_0287,images/prolific_de_0287.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Der Nachbar war nich böse.,Der Nachbar war nicht böse.,complete,nich,nicht,,1,1,0
+prolific_de_0288,images/prolific_de_0288.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Die Polizei fengt Verbrecher.,Die Polizei fängt Verbrecher.,complete,fengt,fängt,,1,1,0
+prolific_de_0289,images/prolific_de_0289.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Ich bringe noch Obst mitt.,Ich bringe noch Obst mit.,complete,mitt,mit,,1,1,0
+prolific_de_0290,images/prolific_de_0290.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Der Adler schwebt majestätisch am Himel.,Der Adler schwebt majestätisch am Himmel.,complete,Himel,Himmel,,1,1,0
+prolific_de_0291,images/prolific_de_0291.png,Prolific DE,de,prolific_de_62f1cd27183583a8b17e,Der Kassirer macht gerade Mittagspause.,Der Kassierer macht gerade Mittagspause.,complete,Kassirer,Kassierer,,1,1,0
+prolific_de_0292,images/prolific_de_0292.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Zurzeit ist mein Deutsh nich perfekt.,Zurzeit ist mein Deutsch nicht perfekt.,complete,Deutsh nich,Deutsch nicht,,1,1,0
+prolific_de_0293,images/prolific_de_0293.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Der Hügel ist mitt Schnee bedekt.,Der Hügel ist mit Schnee bedeckt.,complete,mitt|bedekt,mit|bedeckt,,2,2,0
+prolific_de_0294,images/prolific_de_0294.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Die Hekse reitet auf einem Besen.,Die Hexe reitet auf einem Besen.,complete,Hekse,Hexe,,1,1,0
+prolific_de_0295,images/prolific_de_0295.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Ich stime der ersten Ausage teilweise zu.,Ich stimme der ersten Aussage teilweise zu.,complete,stime|Ausage,stimme|Aussage,,2,2,0
+prolific_de_0296,images/prolific_de_0296.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Das Land besteht aus vilen großen Wäldern.,Das Land besteht aus vielen großen Wäldern.,complete,vilen,vielen,,1,1,0
+prolific_de_0297,images/prolific_de_0297.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Design beeinflust unseren Alltag.,Design beeinflusst unseren Alltag.,complete,beeinflust,beeinflusst,,1,1,0
+prolific_de_0298,images/prolific_de_0298.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Zitronen sind sehr sauer unt gelb.,Zitronen sind sehr sauer und gelb.,complete,unt,und,,1,1,0
+prolific_de_0299,images/prolific_de_0299.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Es gibt hir vile kleine Wohnungen.,Es gibt hier viele kleine Wohnungen.,complete,hir vile,hier viele,,1,1,0
+prolific_de_0300,images/prolific_de_0300.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Die Vorlesungen werden fon Fachexperten gehalten.,Die Vorlesungen werden von Fachexperten gehalten.,complete,fon,von,,1,1,0
+prolific_de_0301,images/prolific_de_0301.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Ich bin ofen und lerne schnel.,Ich bin offen und lerne schnell.,complete,ofen|schnel,offen|schnell,,2,2,0
+prolific_de_0302,images/prolific_de_0302.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Wir haben gekocht und gegesen.,Wir haben gekocht und gegessen.,complete,gegesen,gegessen,,1,1,0
+prolific_de_0303,images/prolific_de_0303.png,Prolific DE,de,prolific_de_65325ec8df3d33192081,Ich bin sehr sportlich unt libe Bücher.,Ich bin sehr sportlich und liebe Bücher.,complete,unt libe,und liebe,,1,1,0
+prolific_de_0304,images/prolific_de_0304.png,Prolific DE,de,prolific_de_60653168e90a81184688,Heute muste ich sehr früh zur Arbeit.,Heute musste ich sehr früh zur Arbeit.,complete,muste,musste,,1,1,0
+prolific_de_0305,images/prolific_de_0305.png,Prolific DE,de,prolific_de_60653168e90a81184688,Prüfungen sind stresig für Studenten.,Prüfungen sind stressig für Studenten.,complete,stresig,stressig,,1,1,0
+prolific_de_0306,images/prolific_de_0306.png,Prolific DE,de,prolific_de_60653168e90a81184688,Die Forele schwimmt elegant im Bach.,Die Forelle schwimmt elegant im Bach.,complete,Forele,Forelle,,1,1,0
+prolific_de_0307,images/prolific_de_0307.png,Prolific DE,de,prolific_de_60653168e90a81184688,Der Oberarzt ist heute krang.,Der Oberarzt ist heute krank.,complete,krang,krank,,1,1,0
+prolific_de_0308,images/prolific_de_0308.png,Prolific DE,de,prolific_de_60653168e90a81184688,Sein Eis fält aus der Hand.,Sein Eis fällt aus der Hand.,complete,fält,fällt,,1,1,0
+prolific_de_0309,images/prolific_de_0309.png,Prolific DE,de,prolific_de_60653168e90a81184688,Der Elsch durchstreift den Wald.,Der Elch durchstreift den Wald.,complete,Elsch,Elch,,1,1,0
+prolific_de_0310,images/prolific_de_0310.png,Prolific DE,de,prolific_de_60653168e90a81184688,Die Eltern hapen meinen Vertrag gekündigt.,Die Eltern haben meinen Vertrag gekündigt.,complete,hapen,haben,,1,1,0
+prolific_de_0311,images/prolific_de_0311.png,Prolific DE,de,prolific_de_60653168e90a81184688,Die Schüler sizen konzentriert im Untericht.,Die Schüler sitzen konzentriert im Unterricht.,complete,sizen|Untericht,sitzen|Unterricht,,2,2,0
+prolific_de_0312,images/prolific_de_0312.png,Prolific DE,de,prolific_de_60653168e90a81184688,Eine Frau list ein Buch im Park.,Eine Frau liest ein Buch im Park.,complete,list,liest,,1,1,0
+prolific_de_0313,images/prolific_de_0313.png,Prolific DE,de,prolific_de_60653168e90a81184688,Du kenst meine Kätze sehr gut.,Du kennst meine Katze sehr gut.,complete,kenst|Kätze,kennst|Katze,,2,2,0
+prolific_de_0314,images/prolific_de_0314.png,Prolific DE,de,prolific_de_60653168e90a81184688,Meine Schwester studirt Medizin.,Meine Schwester studiert Medizin.,complete,studirt,studiert,,1,1,0
+prolific_de_0315,images/prolific_de_0315.png,Prolific DE,de,prolific_de_60653168e90a81184688,Die Vorlesungen werden dürch praktische Übungen ergänzt.,Die Vorlesungen werden durch praktische Übungen ergänzt.,complete,dürch,durch,,1,1,0
+prolific_de_0316,images/prolific_de_0316.png,Prolific DE,de,prolific_de_60653168e90a81184688,Sparen isd eine kluge Entscheidung.,Sparen ist eine kluge Entscheidung.,complete,isd,ist,,1,1,0
+prolific_de_0317,images/prolific_de_0317.png,Prolific DE,de,prolific_de_60653168e90a81184688,Studenten halten Vorträge in iren Kursen.,Studenten halten Vorträge in ihren Kursen.,complete,iren,ihren,,1,1,0
+prolific_de_0318,images/prolific_de_0318.png,Prolific DE,de,prolific_de_60653168e90a81184688,Jeder mus Steuern zahlen.,Jeder muss Steuern zahlen.,complete,mus,muss,,1,1,0
+prolific_de_0319,images/prolific_de_0319.png,Prolific DE,de,prolific_de_3f380c71cc01ece0cd6e,Die Beume blühen erst wieder im Früling.,Die Bäume blühen erst wieder im Frühling.,complete,Beume|Früling,Bäume|Frühling,,2,2,0
+prolific_de_0320,images/prolific_de_0320.png,Prolific DE,de,prolific_de_3f380c71cc01ece0cd6e,Es war ein soniger Tag.,Es war ein sonniger Tag.,complete,soniger,sonniger,,1,1,0
+prolific_de_0321,images/prolific_de_0321.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Die Tage werden imer länger.,Die Tage werden immer länger.,complete,imer,immer,,1,1,0
+prolific_de_0322,images/prolific_de_0322.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Ein Versuch isd es wert.,Ein Versuch ist es wert.,complete,isd,ist,,1,1,0
+prolific_de_0323,images/prolific_de_0323.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Die Sängerin hat eine wundervole Stimme.,Die Sängerin hat eine wundervolle Stimme.,complete,wundervole,wundervolle,,1,1,0
+prolific_de_0324,images/prolific_de_0324.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Die Besizerin ist geschockt.,Die Besitzerin ist geschockt.,complete,Besizerin,Besitzerin,,1,1,0
+prolific_de_0325,images/prolific_de_0325.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Unser Wohnmarkt ist nich groß.,Unser Wohnmarkt ist nicht groß.,complete,nich,nicht,,1,1,0
+prolific_de_0326,images/prolific_de_0326.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Die Szene spilt am Ende des Dramas.,Die Szene spielt am Ende des Dramas.,complete,spilt,spielt,,1,1,0
+prolific_de_0327,images/prolific_de_0327.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Man kan dort sehr günstige Wohnungen finden.,Man kann dort sehr günstige Wohnungen finden.,complete,kan,kann,,1,1,0
+prolific_de_0328,images/prolific_de_0328.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Ein Sonnenstrahl kizelt die Haut.,Ein Sonnenstrahl kitzelt die Haut.,complete,kizelt,kitzelt,,1,1,0
+prolific_de_0329,images/prolific_de_0329.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Studentten leeben oft auf dem Campus.,Studenten leben oft auf dem Campus.,complete,Studentten leeben,Studenten leben,,1,1,0
+prolific_de_0330,images/prolific_de_0330.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Die Krehe krächzt auf dem Baum.,Die Krähe krächzt auf dem Baum.,complete,Krehe,Krähe,,1,1,0
+prolific_de_0331,images/prolific_de_0331.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Er rante hinter einem Frosch.,Er rannte hinter einem Frosch.,complete,rante,rannte,,1,1,0
+prolific_de_0332,images/prolific_de_0332.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Poesie berürt die Seele.,Poesie berührt die Seele.,complete,berürt,berührt,,1,1,0
+prolific_de_0333,images/prolific_de_0333.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Der Lehrer erklärt das neue Tema anschaulich.,Der Lehrer erklärt das neue Thema anschaulich.,complete,Tema,Thema,,1,1,0
+prolific_de_0334,images/prolific_de_0334.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Ein Apfel fält vom Baum.,Ein Apfel fällt vom Baum.,complete,fält,fällt,,1,1,0
+prolific_de_0335,images/prolific_de_0335.png,Prolific DE,de,prolific_de_c8426f1471c9718b3c57,Bildhauerei vormt Materie zu Kunstwerken.,Bildhauerei formt Materie zu Kunstwerken.,complete,vormt,formt,,1,1,0
+prolific_de_0336,images/prolific_de_0336.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Wir bringen Piza und Obst mitt.,Wir bringen Pizza und Obst mit.,complete,Piza|mitt,Pizza|mit,,2,2,0
+prolific_de_0337,images/prolific_de_0337.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Auf dünem Eis kann man leicht einbrechen.,Auf dünnem Eis kann man leicht einbrechen.,complete,dünem,dünnem,,1,1,0
+prolific_de_0338,images/prolific_de_0338.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Alle sehen sehr konzentrirt aus.,Alle sehen sehr konzentriert aus.,complete,konzentrirt,konzentriert,,1,1,0
+prolific_de_0339,images/prolific_de_0339.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Lernen ist ein lebenslanger Prozes.,Lernen ist ein lebenslanger Prozess.,complete,Prozes,Prozess,,1,1,0
+prolific_de_0340,images/prolific_de_0340.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Der Käse schmekt köstlich auf dem Brot.,Der Käse schmeckt köstlich auf dem Brot.,complete,schmekt,schmeckt,,1,1,0
+prolific_de_0341,images/prolific_de_0341.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Natürlich findet man auch Schnäpchen.,Natürlich findet man auch Schnäppchen.,complete,Schnäpchen,Schnäppchen,,1,1,0
+prolific_de_0342,images/prolific_de_0342.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Literatur öfnet Türen zu neuen Welten.,Literatur öffnet Türen zu neuen Welten.,complete,öfnet,öffnet,,1,1,0
+prolific_de_0343,images/prolific_de_0343.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Mit Englisch kann man sih überal verständigen.,Mit Englisch kann man sich überall verständigen.,complete,sih überal,sich überall,,1,1,0
+prolific_de_0344,images/prolific_de_0344.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Du kenst ja meine Vorliebe für Haustire.,Du kennst ja meine Vorliebe für Haustiere.,complete,kenst|Haustire,kennst|Haustiere,,2,2,0
+prolific_de_0345,images/prolific_de_0345.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Das Leben leuft weiter.,Das Leben läuft weiter.,complete,leuft,läuft,,1,1,0
+prolific_de_0346,images/prolific_de_0346.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Es werden keine neuen Blokhäuser gebaut.,Es werden keine neuen Blockhäuser gebaut.,complete,Blokhäuser,Blockhäuser,,1,1,0
+prolific_de_0347,images/prolific_de_0347.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Spinat ist eine gute Eisenquele für Vegetarir.,Spinat ist eine gute Eisenquelle für Vegetarier.,complete,Eisenquele|Vegetarir,Eisenquelle|Vegetarier,,2,2,0
+prolific_de_0348,images/prolific_de_0348.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Ein Vogel war am Fänster.,Ein Vogel war am Fenster.,complete,Fänster,Fenster,,1,1,0
+prolific_de_0349,images/prolific_de_0349.png,Prolific DE,de,prolific_de_4e01e8ec6f3a5b93f49e,Bibliotheken sind belibte Orte für Studenten.,Bibliotheken sind beliebte Orte für Studenten.,complete,belibte,beliebte,,1,1,0
+prolific_en_0001,images/prolific_en_0001.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I am totaly against their argument.,I am totally against their argument.,complete,totaly,totally,,1,1,0
+prolific_en_0002,images/prolific_en_0002.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I totally agree with this stetment.,I totally agree with this statement.,complete,stetment,statement,,1,1,0
+prolific_en_0003,images/prolific_en_0003.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,"Also, more strict punishments would be essentual.","Also, more strict punishments would be essential.",complete,essentual,essential,,1,1,0
+prolific_en_0004,images/prolific_en_0004.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,"However, projections for 2050 differ substantionally.","However, projections for 2050 differ substantially.",complete,substantionally,substantially,,1,1,0
+prolific_en_0005,images/prolific_en_0005.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I absolutely agree with this opionion.,I absolutely agree with this opinion.,complete,opionion,opinion,,1,1,0
+prolific_en_0006,images/prolific_en_0006.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,Then the number stedily decreased.,Then the number steadily decreased.,complete,stedily,steadily,,1,1,0
+prolific_en_0007,images/prolific_en_0007.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I comletely disagree with this standpoint.,I completely disagree with this standpoint.,complete,comletely,completely,,1,1,0
+prolific_en_0008,images/prolific_en_0008.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I can easility refute these arguements.,I can easily refute these arguments.,complete,easility|arguements,easily|arguments,,2,2,0
+prolific_en_0009,images/prolific_en_0009.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,"Firslty, it is bad for health.","Firstly, it is bad for health.",complete,Firslty,Firstly,,1,1,0
+prolific_en_0010,images/prolific_en_0010.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,I absouletly disagree with them.,I absolutely disagree with them.,complete,absouletly,absolutely,,1,1,0
+prolific_en_0011,images/prolific_en_0011.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,"However, this is just a mmarketing ploy.","However, this is just a marketing ploy.",complete,mmarketing,marketing,,1,1,0
+prolific_en_0012,images/prolific_en_0012.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,And no help should be provied.,And no help should be provided.,complete,provied,provided,,1,1,0
+prolific_en_0013,images/prolific_en_0013.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,Such problems can lead to mental desieses.,Such problems can lead to mental diseases.,complete,desieses,diseases,,1,1,0
+prolific_en_0014,images/prolific_en_0014.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,They are both completly different.,They are both completely different.,complete,completly,completely,,1,1,0
+prolific_en_0015,images/prolific_en_0015.png,Prolific EN,en,prolific_en_affcd023901ac46776b8,And the same philosophie applies to education.,And the same philosophy applies to education.,complete,philosophie,philosophy,,1,1,0
+prolific_en_0016,images/prolific_en_0016.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,People don't know what the want!,People don't know what they want!,complete,the,they,,1,1,0
+prolific_en_0017,images/prolific_en_0017.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,Multinational companies always requiers big investments.,Multinational companies always require big investments.,complete,requiers,require,,1,1,0
+prolific_en_0018,images/prolific_en_0018.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,They cover many aresa.,They cover many areas.,complete,aresa,areas,,1,1,0
+prolific_en_0019,images/prolific_en_0019.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,They find hapiness in simple things.,They find happiness in simple things.,complete,hapiness,happiness,,1,1,0
+prolific_en_0020,images/prolific_en_0020.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,There are many advantages of this proces.,There are many advantages of this process.,complete,proces,process,,1,1,0
+prolific_en_0021,images/prolific_en_0021.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,People argue about its sollution.,People argue about its solution.,complete,sollution,solution,,1,1,0
+prolific_en_0022,images/prolific_en_0022.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,"Howether, there is another point of view.","However, there is another point of view.",complete,Howether,However,,1,1,0
+prolific_en_0023,images/prolific_en_0023.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,This production needs expensive natural ingridients.,This production needs expensive natural ingredients.,complete,ingridients,ingredients,,1,1,0
+prolific_en_0024,images/prolific_en_0024.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,But there are a lot of diferences.,But there are a lot of differences.,complete,diferences,differences,,1,1,0
+prolific_en_0025,images/prolific_en_0025.png,Prolific EN,en,prolific_en_f1eefa98ce65ced98899,Shcool is the second home.,School is the second home.,complete,Shcool,School,,1,1,0
+prolific_en_0026,images/prolific_en_0026.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,I complitely disagree with this opinion.,I completely disagree with this opinion.,complete,complitely,completely,,1,1,0
+prolific_en_0027,images/prolific_en_0027.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,"Nevetheless, I cannot disagree with this opinion.","Nevertheless, I cannot disagree with this opinion.",complete,Nevetheless,Nevertheless,,1,1,0
+prolific_en_0028,images/prolific_en_0028.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,This is bery important.,This is very important.,complete,bery,very,,1,1,0
+prolific_en_0029,images/prolific_en_0029.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,Secondly language is neccesary for national self-determination.,Secondly language is necessary for national self-determination.,complete,neccesary,necessary,,1,1,0
+prolific_en_0030,images/prolific_en_0030.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,Some countries have alredy tried this system.,Some countries have already tried this system.,complete,alredy,already,,1,1,0
+prolific_en_0031,images/prolific_en_0031.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,It hit a pick in 2011.,It hit a peak in 2011.,complete,pick,peak,,1,1,0
+prolific_en_0032,images/prolific_en_0032.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,I absolutly agree with this statement.,I absolutely agree with this statement.,complete,absolutly,absolutely,,1,1,0
+prolific_en_0033,images/prolific_en_0033.png,Prolific EN,en,prolific_en_627a67b62e86327178c6,I desagree with this point of view.,I disagree with this point of view.,complete,desagree,disagree,,1,1,0
+prolific_en_0034,images/prolific_en_0034.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Some find it profitable and jstified.,Some find it profitable and justified.,complete,jstified,justified,,1,1,0
+prolific_en_0035,images/prolific_en_0035.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,I will try to explaine.,I will try to explain.,complete,explaine,explain,,1,1,0
+prolific_en_0036,images/prolific_en_0036.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Bur what about language?,But what about language?,complete,Bur,But,,1,1,0
+prolific_en_0037,images/prolific_en_0037.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,So education is fubndamental in human life.,So education is fundamental in human life.,complete,fubndamental,fundamental,,1,1,0
+prolific_en_0038,images/prolific_en_0038.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Modern parents are mostly millenials.,Modern parents are mostly millennials.,complete,millenials,millennials,,1,1,0
+prolific_en_0039,images/prolific_en_0039.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,"Firstly, it is more convinient for communication.","Firstly, it is more convenient for communication.",complete,convinient,convenient,,1,1,0
+prolific_en_0040,images/prolific_en_0040.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,It is a very controvercial topic.,It is a very controversial topic.,complete,controvercial,controversial,,1,1,0
+prolific_en_0041,images/prolific_en_0041.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,"Consequently, the unemloyment rate decreases.","Consequently, the unemployment rate decreases.",complete,unemloyment,unemployment,,1,1,0
+prolific_en_0042,images/prolific_en_0042.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Let is care about everything.,Let us care about everything.,complete,is,us,,1,1,0
+prolific_en_0043,images/prolific_en_0043.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,A futher point to mention is competition.,A further point to mention is competition.,complete,futher,further,,1,1,0
+prolific_en_0044,images/prolific_en_0044.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Many philosophers tryed to define this word.,Many philosophers tried to define this word.,complete,tryed,tried,,1,1,0
+prolific_en_0045,images/prolific_en_0045.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,In this case disadvantages outweight benefits.,In this case disadvantages outweigh benefits.,complete,outweight,outweigh,,1,1,0
+prolific_en_0046,images/prolific_en_0046.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,Having a business is not an exeption.,Having a business is not an exception.,complete,exeption,exception,,1,1,0
+prolific_en_0047,images/prolific_en_0047.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,I think there is no anwser.,I think there is no answer.,complete,anwser,answer,,1,1,0
+prolific_en_0048,images/prolific_en_0048.png,Prolific EN,en,prolific_en_3e0262c30627a611476c,"Furthermore, it will simplify students' lifes.","Furthermore, it will simplify students' lives.",complete,lifes,lives,,1,1,0
+prolific_en_0049,images/prolific_en_0049.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,Basic education is important for all humanaty,Basic education is important for all humanity,complete,humanaty,humanity,,1,1,0
+prolific_en_0050,images/prolific_en_0050.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,"Unfortunately, not everyone is sucsessful in life","Unfortunately, not everyone is successful in life",complete,sucsessful,successful,,1,1,0
+prolific_en_0051,images/prolific_en_0051.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,Even people in doveloped countries lack work,Even people in developed countries lack work,complete,doveloped,developed,,1,1,0
+prolific_en_0052,images/prolific_en_0052.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,"Sometimes students can be rude, and impolate","Sometimes students can be rude, and impolite",complete,impolate,impolite,,1,1,0
+prolific_en_0053,images/prolific_en_0053.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,Is is beneficial for buyers,,unresolved_target,Is,It,,1,0,1
+prolific_en_0054,images/prolific_en_0054.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,Nevertheless there are both disantantages and advantages,Nevertheless there are both disadvantages and advantages,complete,disantantages,disadvantages,,1,1,0
+prolific_en_0055,images/prolific_en_0055.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,"However, there are aslo some relevant drawbacks","However, there are also some relevant drawbacks",complete,aslo,also,,1,1,0
+prolific_en_0056,images/prolific_en_0056.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,It is so good to be healty,It is so good to be healthy,complete,healty,healthy,,1,1,0
+prolific_en_0057,images/prolific_en_0057.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,The modern world is based on kunoledge,The modern world is based on knowledge,complete,kunoledge,knowledge,,1,1,0
+prolific_en_0058,images/prolific_en_0058.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,Some people say that these are synonims,Some people say that these are synonyms,complete,synonims,synonyms,,1,1,0
+prolific_en_0059,images/prolific_en_0059.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,I experianced this feeling several times,I experienced this feeling several times,complete,experianced,experienced,,1,1,0
+prolific_en_0060,images/prolific_en_0060.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,So they ought to have a dialoge,So they ought to have a dialogue,complete,dialoge,dialogue,,1,1,0
+prolific_en_0061,images/prolific_en_0061.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,This differense emerges in all ages.,This difference emerges in all ages.,complete,differense,difference,,1,1,0
+prolific_en_0062,images/prolific_en_0062.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,"Moreover, the change was stady","Moreover, the change was steady",complete,stady,steady,,1,1,0
+prolific_en_0063,images/prolific_en_0063.png,Prolific EN,en,prolific_en_a694bdb34a02fbfe252c,"Neverthelass, the values differ a lot.","Nevertheless, the values differ a lot.",complete,Neverthelass,Nevertheless,,1,1,0
+prolific_en_0064,images/prolific_en_0064.png,Prolific EN,en,prolific_en_96995131111b03265fc3,Many people were ofended by this.,Many people were offended by this.,complete,ofended,offended,,1,1,0
+prolific_en_0065,images/prolific_en_0065.png,Prolific EN,en,prolific_en_96995131111b03265fc3,Completitors can fabricate evidance against other companies.,Competitors can fabricate evidence against other companies.,complete,Completitors|evidance,Competitors|evidence,,2,2,0
+prolific_en_0066,images/prolific_en_0066.png,Prolific EN,en,prolific_en_96995131111b03265fc3,There are many reasosns for it,There are many reasons for it,complete,reasosns,reasons,,1,1,0
+prolific_en_0067,images/prolific_en_0067.png,Prolific EN,en,prolific_en_96995131111b03265fc3,It has no sence for them,It has no sense for them,complete,sence,sense,,1,1,0
+prolific_en_0068,images/prolific_en_0068.png,Prolific EN,en,prolific_en_96995131111b03265fc3,Such activity cannot help anyone phisically.,Such activity cannot help anyone physically.,complete,phisically,physically,,1,1,0
+prolific_en_0069,images/prolific_en_0069.png,Prolific EN,en,prolific_en_96995131111b03265fc3,It makes them more competetive,It makes them more competitive,complete,competetive,competitive,,1,1,0
+prolific_en_0070,images/prolific_en_0070.png,Prolific EN,en,prolific_en_96995131111b03265fc3,Authorities should sponsore it.,Authorities should sponsor it.,complete,sponsore,sponsor,,1,1,0
+prolific_en_0071,images/prolific_en_0071.png,Prolific EN,en,prolific_en_96995131111b03265fc3,so we should censore it.,so we should censor it.,complete,censore,censor,,1,1,0
+prolific_en_0072,images/prolific_en_0072.png,Prolific EN,en,prolific_en_96995131111b03265fc3,It is a gouverment's responsibility,It is a government's responsibility,complete,gouverment,government,,1,1,0
+prolific_en_0073,images/prolific_en_0073.png,Prolific EN,en,prolific_en_96995131111b03265fc3,"Lastly, watching sports can unite fiends.","Lastly, watching sports can unite friends.",complete,fiends,friends,,1,1,0
+prolific_en_0074,images/prolific_en_0074.png,Prolific EN,en,prolific_en_96995131111b03265fc3,This is happening all ower the world.,This is happening all over the world.,complete,ower,over,,1,1,0
+prolific_en_0075,images/prolific_en_0075.png,Prolific EN,en,prolific_en_96995131111b03265fc3,One more thing is professional succes.,One more thing is professional success.,complete,succes,success,,1,1,0
+prolific_en_0076,images/prolific_en_0076.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,English is a Vary . good examample.,English is a very . good example.,complete,Vary|examample,very|example,,2,2,0
+prolific_en_0077,images/prolific_en_0077.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,That is why young people comitt crimes.,That is why young people commit crimes.,complete,comitt,commit,,1,1,0
+prolific_en_0078,images/prolific_en_0078.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,"To conclude, the advantages outweight the disadvantages.","To conclude, the advantages outweigh the disadvantages.",complete,outweight,outweigh,,1,1,0
+prolific_en_0079,images/prolific_en_0079.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,Film budjets also have to be increased.,Film budgets also have to be increased.,complete,budjets,budgets,,1,1,0
+prolific_en_0080,images/prolific_en_0080.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,"Unfortunatelly, it can affect people's health.","Unfortunately, it can affect people's health.",complete,Unfortunatelly,Unfortunately,,1,1,0
+prolific_en_0081,images/prolific_en_0081.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,It ts the main reason for divorce.,It is the main reason for divorce.,complete,ts,is,,1,1,0
+prolific_en_0082,images/prolific_en_0082.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,The results are very Summilare.,The results are very similar.,complete,Summilare,similar,,1,1,0
+prolific_en_0083,images/prolific_en_0083.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,This evaluation has some advantages and dosadvantages.,This evaluation has some advantages and disadvantages.,complete,dosadvantages,disadvantages,,1,1,0
+prolific_en_0084,images/prolific_en_0084.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,"Firstly, every person is uniq and original.","Firstly, every person is unique and original.",complete,uniq,unique,,1,1,0
+prolific_en_0085,images/prolific_en_0085.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,"Nevertheless, others Consider this idea apropriate.","Nevertheless, others Consider this idea appropriate.",complete,apropriate,appropriate,,1,1,0
+prolific_en_0086,images/prolific_en_0086.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,But the consequensies can be very dangerous.,But the consequences can be very dangerous.,complete,consequensies,consequences,,1,1,0
+prolific_en_0087,images/prolific_en_0087.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,They thought it was enought.,They thought it was enough.,complete,enought,enough,,1,1,0
+prolific_en_0088,images/prolific_en_0088.png,Prolific EN,en,prolific_en_60f5f6463ae213d4d8ee,Whose influence is more Sighnificant?,Whose influence is more significant?,complete,Sighnificant,significant,,1,1,0
+prolific_en_0089,images/prolific_en_0089.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,And I diagre with that,And I disagree with that,complete,diagre,disagree,,1,1,0
+prolific_en_0090,images/prolific_en_0090.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,this Kills poeple's Individuality.,this Kills people's Individuality.,complete,poeple,people,,1,1,0
+prolific_en_0091,images/prolific_en_0091.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,Hapiness is Considerd very Important in life.,Happiness is considered very Important in life.,complete,Hapiness|Considerd,Happiness|considered,,2,2,0
+prolific_en_0092,images/prolific_en_0092.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,we see advertisment everywhere.,we see advertisement everywhere.,complete,advertisment,advertisement,,1,1,0
+prolific_en_0093,images/prolific_en_0093.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,"However, do not forget about our equlity","However, do not forget about our equality",complete,equlity,equality,,1,1,0
+prolific_en_0094,images/prolific_en_0094.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,I disagree whith this position,I disagree with this position,complete,whith,with,,1,1,0
+prolific_en_0095,images/prolific_en_0095.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,It is just intertainment.,It is just entertainment.,complete,intertainment,entertainment,,1,1,0
+prolific_en_0096,images/prolific_en_0096.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,I had never red any blogs,I had never read any blogs,complete,red,read,,1,1,0
+prolific_en_0097,images/prolific_en_0097.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,"Firsthy, reech people could help homeless ones","Firstly, rich people could help homeless ones",complete,reech|Firsthy,rich|Firstly,,2,2,0
+prolific_en_0098,images/prolific_en_0098.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,However there are several exaptions,However there are several exceptions,complete,exaptions,exceptions,,1,1,0
+prolific_en_0099,images/prolific_en_0099.png,Prolific EN,en,prolific_en_fe49dd7ae12ec6cd53f0,This position is prooved by research,This position is proved by research,complete,prooved,proved,,1,1,0
+smhd_0001,images/smhd_0001.png,SMHD,en,smhd_0318,have more struggle in life. when we unfavoritable,have more struggle in life. when we unfavorable,complete,unfavoritable,unfavorable,,1,1,0
+smhd_0002,images/smhd_0002.png,SMHD,en,smhd_0319,learing mistakes from your own journeye. Never,learning mistakes from your own journey. Never,complete,learing|journeye,learning|journey,,2,2,0
+smhd_0003,images/smhd_0003.png,SMHD,en,smhd_0333,"his Country and Secrifice for our Country,","his Country and Sacrifice for our Country,",complete,Secrifice,Sacrifice,,1,1,0
+smhd_0004,images/smhd_0004.png,SMHD,en,smhd_0333,clean. People secrifice for our Country when,clean. People Sacrifice for our Country when,complete,Secrifice,Sacrifice,,1,1,0
+smhd_0005,images/smhd_0005.png,SMHD,en,smhd_0334,"a country can't successed. It's important for countries defence,","a country can't succeed. It's important for countries defence,",complete,successed,succeed,,1,1,0
+smhd_0006,images/smhd_0006.png,SMHD,en,smhd_0334,young children and youth in order to successed and,young children and youth in order to succeed and,complete,successed,succeed,,1,1,0
+smhd_0007,images/smhd_0007.png,SMHD,en,smhd_0335,galavanize us all in to the united and strong,galvanize us all in to the united and strong,complete,galavanize,galvanize,,1,1,0
+smhd_0008,images/smhd_0008.png,SMHD,en,smhd_0336,for the motherland as needed. Great soilder,for the motherland as needed. Great soldier,complete,soilder,soldier,,1,1,0
+smhd_0009,images/smhd_0009.png,SMHD,en,smhd_0338,and always be willing to secrifice for,and always be willing to sacrifice for,complete,secrifice,sacrifice,,1,1,0
+smhd_0010,images/smhd_0010.png,SMHD,en,smhd_0338,my first and formost duty is,my first and foremost duty is,complete,formost,foremost,,1,1,0
+smhd_0011,images/smhd_0011.png,SMHD,en,smhd_0340,"For a patriot the Sovereighty,","For a patriot the Sovereignty,",complete,Sovereighty,Sovereignty,,1,1,0
+smhd_0012,images/smhd_0012.png,SMHD,en,smhd_0341,loves his Country and Secrifice for our,loves his Country and Sacrifice for our,complete,Secrifice,Sacrifice,,1,1,0
+smhd_0013,images/smhd_0013.png,SMHD,en,smhd_0346,and I am hostellite but still we are,and I am hostelite but still we are,complete,hostellite,hostelite,,1,1,0
+smhd_0014,images/smhd_0014.png,SMHD,en,smhd_0347,to have addmission in the better colleges,to have admission in the better colleges,complete,addmission,admission,,1,1,0
+smhd_0015,images/smhd_0015.png,SMHD,en,smhd_0350,"from the hole world, only Sayed","from the whole world, only Sayed",complete,hole,whole,,1,1,0
+smhd_0016,images/smhd_0016.png,SMHD,en,smhd_0351,"inteligent boy, he help me in every","intelligent boy, he help me in every",complete,inteligent,intelligent,,1,1,0
+smhd_0017,images/smhd_0017.png,SMHD,en,smhd_0355,have succeded in winning as big a country as,have succeeded in winning as big a country as,complete,succeded,succeeded,,1,1,0
+smhd_0018,images/smhd_0018.png,SMHD,en,smhd_0357,muhammad is very easier if we coppy their Life cycle,muhammad is very easier if we copy their Life cycle,complete,coppy,copy,,1,1,0
+smhd_0019,images/smhd_0019.png,SMHD,en,smhd_0358,to higher for London. After complate his study,to higher for London. After complete his study,complete,complate,complete,,1,1,0
+smhd_0020,images/smhd_0020.png,SMHD,en,smhd_0366,Cricket team excuted their plan. And,Cricket team executed their plan. And,complete,excuted,executed,,1,1,0
+smhd_0021,images/smhd_0021.png,SMHD,en,smhd_0366,the excution of their plan. Till the,the execution of their plan. Till the,complete,excution,execution,,1,1,0
+smhd_0022,images/smhd_0022.png,SMHD,en,smhd_0374,very hospitible and respectable -,very hospitable and respectable -,complete,hospitible,hospitable,,1,1,0
+smhd_0023,images/smhd_0023.png,SMHD,en,smhd_0382,during covid 19 it was mendatory for each,during covid 19 it was mandatory for each,complete,mendatory,mandatory,,1,1,0
+smhd_0024,images/smhd_0024.png,SMHD,en,smhd_0390,time its happend to me,time its happened to me,complete,happend,happened,,1,1,0
+smhd_0025,images/smhd_0025.png,SMHD,en,smhd_0396,addmission in this college,admission in this college,complete,addmission,admission,,1,1,0
+smhd_0026,images/smhd_0026.png,SMHD,en,smhd_0396,and attendent the classes.,and attendant the classes.,complete,attendent,attendant,,1,1,0
+smhd_0027,images/smhd_0027.png,SMHD,en,smhd_0402,After cooling the machinary water and,After cooling the machinery water and,complete,machinary,machinery,,1,1,0
+smhd_0028,images/smhd_0028.png,SMHD,en,smhd_0407,I want to be the part of beaurocracy of,I want to be the part of bureaucracy of,complete,beaurocracy,bureaucracy,,1,1,0
+smhd_0029,images/smhd_0029.png,SMHD,en,smhd_0414,daily a millions of peoplle accross The world.,daily a millions of people across The world.,complete,accross|peoplle,across|people,,2,2,0
+smhd_0030,images/smhd_0030.png,SMHD,en,smhd_0416,To there own desire. And due to,To their own desire. And due to,complete,there,their,,1,1,0
+smhd_0031,images/smhd_0031.png,SMHD,en,smhd_0419,have very happy for him and beless him,have very happy for him and bless him,complete,beless,bless,,1,1,0
+smhd_0032,images/smhd_0032.png,SMHD,en,smhd_0423,is I took addmision in this,is I took admission in this,complete,addmision,admission,,1,1,0
+smhd_0033,images/smhd_0033.png,SMHD,en,smhd_0444,People in high governement offices exploite,People in high government offices exploit,complete,governement|exploite,government|exploit,,2,2,0
+smhd_0034,images/smhd_0034.png,SMHD,en,smhd_0445,very much disapointed overther,very much disappointed overther,complete,disapointed,disappointed,,1,1,0
+smhd_0035,images/smhd_0035.png,SMHD,en,smhd_0451,astonisting because she always reads fiction and,astonishing because she always reads fiction and,complete,astonisting,astonishing,,1,1,0
+smhd_0036,images/smhd_0036.png,SMHD,en,smhd_0451,"magazines she is very polite and well mannerd, Her","magazines she is very polite and well mannered, Her",complete,mannerd,mannered,,1,1,0
+smhd_0037,images/smhd_0037.png,SMHD,en,smhd_0453,"relation of Parents with their childrens,","relation of Parents with their children,",complete,childrens,children,,1,1,0
+smhd_0038,images/smhd_0038.png,SMHD,en,smhd_0461,overselves to get great results.,ourselves to get great results.,complete,overselves,ourselves,,1,1,0
+smhd_0039,images/smhd_0039.png,SMHD,en,smhd_0461,There is the qoute:,There is the quote:,complete,qoute,quote,,1,1,0
+smhd_0040,images/smhd_0040.png,SMHD,en,smhd_0463,hang arround and the most of the,hang around and the most of the,complete,arround,around,,1,1,0
+smhd_0041,images/smhd_0041.png,SMHD,en,smhd_0463,Commite to feed your mind with,Commit to feed your mind with,complete,Commite,Commit,,1,1,0
+smhd_0042,images/smhd_0042.png,SMHD,en,smhd_0464,this is posible know a day.,this is possible know a day.,complete,posible,possible,,1,1,0
+smhd_0043,images/smhd_0043.png,SMHD,en,smhd_0467,nesserry for very Person in the,necessary for very Person in the,complete,nesserry,necessary,,1,1,0
+smhd_0044,images/smhd_0044.png,SMHD,en,smhd_0483,to create your own youtube channell and,to create your own youtube channel and,complete,channell,channel,,1,1,0
+smhd_0045,images/smhd_0045.png,SMHD,en,smhd_0488,Oil is avaible in abundance in most,Oil is available in abundance in most,complete,avaible,available,,1,1,0
+smhd_0046,images/smhd_0046.png,SMHD,en,smhd_0489,demage your life. So I always try to use,damage your life. So I always try to use,complete,demage,damage,,1,1,0
+smhd_0047,images/smhd_0047.png,SMHD,en,smhd_0505,5. Regularly in your calender,5. Regularly in your calendar,complete,calender,calendar,,1,1,0
+smhd_0048,images/smhd_0048.png,SMHD,en,smhd_0515,or via a vedio call,or via a video call,complete,vedio,video,,1,1,0
+smhd_0049,images/smhd_0049.png,SMHD,en,smhd_0354,Congress Than he left the Congress and,Congress Then he left the Congress and,complete,Than,Then,,1,1,0
+smhd_0050,images/smhd_0050.png,SMHD,en,smhd_0426,form a rendiable paragraph. During,form a readable paragraph. During,complete,rendiable,readable,,1,1,0
+smhd_0051,images/smhd_0051.png,SMHD,en,smhd_0443,1947. There was alot of,1947. There was a lot of,complete,alot,a lot,,1,1,0
+smhd_0052,images/smhd_0052.png,SMHD,en,smhd_0470,"educated because there are schools, shops and dispensries .My","educated because there are schools, shops and dispensaries .My",complete,dispensries,dispensaries,,1,1,0
+smhd_0053,images/smhd_0053.png,SMHD,en,smhd_0489,It is famous proverb of Great writters that Think before,It is famous proverb of Great writers that Think before,complete,writters,writers,,1,1,0
+smhd_0054,images/smhd_0054.png,SMHD,en,smhd_0346,well. We are having alot of gossips at,well. We are having a lot of gossips at,complete,alot,a lot,,1,1,0
+smhd_0055,images/smhd_0055.png,SMHD,en,smhd_0361,to leave congress part and decided to join muslims,to leave congress party and decided to join muslims,complete,part,party,,1,1,0
+smhd_0056,images/smhd_0056.png,SMHD,en,smhd_0391,Startes. our team played good and,Starts. our team played good and,complete,Startes,Starts,,1,1,0
+smhd_0057,images/smhd_0057.png,SMHD,en,smhd_0401,wasetes etc. water pollution damage our,wastes etc. water pollution damage our,complete,wasetes,wastes,,1,1,0
+smhd_0058,images/smhd_0058.png,SMHD,en,smhd_0444,happinning in every section of society.,happening in every section of society.,complete,happinning,happening,,1,1,0
+smhd_0059,images/smhd_0059.png,SMHD,en,smhd_0452,Friendship means a honestfull relation,Friendship means a honestful relation,complete,honestfull,honestful,,1,1,0
+smhd_0060,images/smhd_0060.png,SMHD,en,smhd_0486,our fashions as having fasililities and their,our fashions as having facilities and their,complete,fasililities,facilities,,1,1,0
+smhd_0061,images/smhd_0061.png,SMHD,en,smhd_0001,and genotyphically is type A or type B Blood,and genotypically is type A or type B Blood,complete,genotyphically,genotypically,,1,1,0
+smhd_0062,images/smhd_0062.png,SMHD,en,smhd_0002,Knowledegeis more powerful than physically,Knowledge is more powerful than physically,complete,Knowledegeis,Knowledge is,,1,1,0
+smhd_0063,images/smhd_0063.png,SMHD,en,smhd_0009,and got hateness from every one . He,and got hatred from every one . He,complete,hateness,hatred,,1,1,0
+smhd_0064,images/smhd_0064.png,SMHD,en,smhd_0010,"nation or one's country completly ,","nation or one's country completely ,",complete,completly,completely,,1,1,0
+smhd_0065,images/smhd_0065.png,SMHD,en,smhd_0012,captured the indian piolt . Nandun wing,captured the indian pilot . Nandun wing,complete,piolt,pilot,,1,1,0
+smhd_0066,images/smhd_0066.png,SMHD,en,smhd_0012,reward for his billiant job to teach,reward for his brilliant job to teach,complete,billiant,brilliant,,1,1,0
+smhd_0067,images/smhd_0067.png,SMHD,en,smhd_0012,him over to india officals on,him over to india officials on,complete,officals,officials,,1,1,0
+smhd_0068,images/smhd_0068.png,SMHD,en,smhd_0013,in Pakistan . Pakistan was depented in,in Pakistan . Pakistan was dependent in,complete,depented,dependent,,1,1,0
+smhd_0069,images/smhd_0069.png,SMHD,en,smhd_0013,it can't get develope . Pakistan is,it can't get developed . Pakistan is,complete,develope,developed,,1,1,0
+smhd_0070,images/smhd_0070.png,SMHD,en,smhd_0014,It discribes the good and the,It describes the good and the,complete,discribes,describes,,1,1,0
+smhd_0071,images/smhd_0071.png,SMHD,en,smhd_0017,our insister's spend their lives,our insisted's spend their lives,complete,insister,insisted,,1,1,0
+smhd_0072,images/smhd_0072.png,SMHD,en,smhd_0017,English is a world wide speaking,English is a worldwide speaking,complete,world wide,worldwide,,1,1,0
+smhd_0073,images/smhd_0073.png,SMHD,en,smhd_0022,vaccine for chorona virus . They get,vaccine for corona virus . They get,complete,chorona,corona,,1,1,0
+smhd_0074,images/smhd_0074.png,SMHD,en,smhd_0022,stricker migration policies.,stricter migration policies.,complete,stricker,stricter,,1,1,0
+smhd_0075,images/smhd_0075.png,SMHD,en,smhd_0023,take some hourse from your daily life,take some hours from your daily life,complete,hourse,hours,,1,1,0
+smhd_0076,images/smhd_0076.png,SMHD,en,smhd_0024,a successful weight lossing .,a successful weight losing .,complete,lossing,losing,,1,1,0
+smhd_0077,images/smhd_0077.png,SMHD,en,smhd_0024,affect on weight . This point,effect on weight . This point,complete,affect,effect,,1,1,0
+smhd_0078,images/smhd_0078.png,SMHD,en,smhd_0024,not eat a oily food .,not eat an oily food .,complete,a,an,,1,1,0
+smhd_0079,images/smhd_0079.png,SMHD,en,smhd_0025,to loose fats? Their are so many,to lose fats? There are so many,complete,loose|Their,lose|There,,2,2,0
+smhd_0080,images/smhd_0080.png,SMHD,en,smhd_0025,we can loose weight and also,we can lose weight and also,complete,loose,lose,,1,1,0
+smhd_0081,images/smhd_0081.png,SMHD,en,smhd_0025,minuts in a day .,Minutes in a day .,complete,minuts,Minutes,,1,1,0
+smhd_0082,images/smhd_0082.png,SMHD,en,smhd_0027,to co-aprate or to work for,to cooperate or to work for,complete,co-aprate,cooperate,co-operate,1,1,0
+smhd_0083,images/smhd_0083.png,SMHD,en,smhd_0028,how we protect the covered glaciear,how we protect the covered glacier,complete,glaciear,glacier,,1,1,0
+smhd_0084,images/smhd_0084.png,SMHD,en,smhd_0029,promotes the intelligency and the,promotes the intelligence and the,complete,intelligency,intelligence,,1,1,0
+smhd_0085,images/smhd_0085.png,SMHD,en,smhd_0030,you ewersice you will loss your,you exercise you will lose your,complete,loss|ewersice,lose|exercise,,2,2,0
+smhd_0086,images/smhd_0086.png,SMHD,en,smhd_0031,many glaceries in january,many glaciers in january,complete,glaceries,glaciers,,1,1,0
+smhd_0087,images/smhd_0087.png,SMHD,en,smhd_0032,write and revies business letter,write and revise business letter,complete,revies,revise,,1,1,0
+smhd_0088,images/smhd_0088.png,SMHD,en,smhd_0033,entiusiasm of people and,Enthusiasm of people and,complete,entiusiasm,Enthusiasm,,1,1,0
+smhd_0089,images/smhd_0089.png,SMHD,en,smhd_0034,The choicce of carer is indeed the,The choice of carer is indeed the,complete,choicce,choice,,1,1,0
+smhd_0090,images/smhd_0090.png,SMHD,en,smhd_0034,"toughest, thing in life . The main reasson","toughest, thing in life . The main reason",complete,reasson,reason,,1,1,0
+smhd_0091,images/smhd_0091.png,SMHD,en,smhd_0034,"scope of any field . Moreovera , the","scope of any field . Moreover , the",complete,Moreovera,Moreover,,1,1,0
+smhd_0092,images/smhd_0092.png,SMHD,en,smhd_0034,becoms a sourc of displacemnt after,becomes a source of displacement after,complete,becoms|displacemnt|sourc,becomes|displacement|source,,3,3,0
+smhd_0093,images/smhd_0093.png,SMHD,en,smhd_0034,somtimes - Day dreaming . over expectition,Sometimes - Day dreaming . over expectation,complete,somtimes|expectition,Sometimes|expectation,,2,2,0
+smhd_0094,images/smhd_0094.png,SMHD,en,smhd_0034,factors must b considerd beyond,factors must b considered beyond,complete,considerd,considered,,1,1,0
+smhd_0095,images/smhd_0095.png,SMHD,en,smhd_0034,personal preferrence . The students that if,personal preference . The students that if,complete,preferrence,preference,,1,1,0
+smhd_0096,images/smhd_0096.png,SMHD,en,smhd_0034,interst in reading and writting then they,interest in reading and writing then they,complete,writting|interst,writing|interest,,2,2,0
+smhd_0097,images/smhd_0097.png,SMHD,en,smhd_0035,"unfortunat refugees , stricken in body","Unfortunate refugees , stricken in body",complete,unfortunat,Unfortunate,,1,1,0
+smhd_0098,images/smhd_0098.png,SMHD,en,smhd_0035,"and in Soul , persented problems","and in Soul , presented problems",complete,persented,presented,,1,1,0
+smhd_0099,images/smhd_0099.png,SMHD,en,smhd_0037,"like garbage , greenhous effect , & water","like garbage , greenhouse effect , & water",complete,greenhous,greenhouse,,1,1,0
+smhd_0100,images/smhd_0100.png,SMHD,en,smhd_0037,unchecked popullations growth may result,unchecked population growth may result,complete,popullations,population,,1,1,0
+smhd_0101,images/smhd_0101.png,SMHD,en,smhd_0037,in environmental catastrope . A quick look,in environmental catastrophe . A quick look,complete,catastrope,catastrophe,,1,1,0
+smhd_0102,images/smhd_0102.png,SMHD,en,smhd_0040,we Suffer alot . but in this,we Suffer a lot . but in this,complete,alot,a lot,,1,1,0
+smhd_0103,images/smhd_0103.png,SMHD,en,smhd_0041,Significance . The Romantic believes mans heighest,Significance . The Romantic believes men highest,complete,mans|heighest,men|highest,,2,2,0
+smhd_0104,images/smhd_0104.png,SMHD,en,smhd_0041,most spiratual attribote was his imagination that,most spiritual attribute was his imagination that,complete,spiratual|attribote,spiritual|attribute,,2,2,0
+smhd_0105,images/smhd_0105.png,SMHD,en,smhd_0041,craetive thoughts. but also his connaction,creative thoughts. but also his connection,complete,craetive|connaction,creative|connection,,2,2,0
+smhd_0106,images/smhd_0106.png,SMHD,en,smhd_0042,who transported good by camel carvan,who transported good by camel caravan,complete,carvan,caravan,,1,1,0
+smhd_0107,images/smhd_0107.png,SMHD,en,smhd_0044,higheast building that is famous,Highest building that is famous,complete,higheast,Highest,,1,1,0
+smhd_0108,images/smhd_0108.png,SMHD,en,smhd_0044,"cricket matches , Gulf-news Toyata","cricket matches , Gulf-news Toyota",complete,Toyata,Toyota,,1,1,0
+smhd_0109,images/smhd_0109.png,SMHD,en,smhd_0044,bird sancturies and sir Bani Yas,bird sanctuaries and sir Bani Yas,complete,sancturies,sanctuaries,,1,1,0
+smhd_0110,images/smhd_0110.png,SMHD,en,smhd_0045,that are dissolveds in water .,that are dissolved in water .,complete,dissolveds,dissolved,,1,1,0
+smhd_0111,images/smhd_0111.png,SMHD,en,smhd_0046,enforce law but we have to reviwe,enforce law but we have to review,complete,reviwe,review,,1,1,0
+smhd_0112,images/smhd_0112.png,SMHD,en,smhd_0046,the aid that ofer the world bank . So there,the aid that offer the world bank . So there,complete,ofer,offer,,1,1,0
+smhd_0113,images/smhd_0113.png,SMHD,en,smhd_0046,and every governament just loan the,and every government just loan the,complete,governament,government,,1,1,0
+smhd_0114,images/smhd_0114.png,SMHD,en,smhd_0049,"and combeting other health condition ,","and combating other health condition ,",complete,combeting,combating,,1,1,0
+smhd_0115,images/smhd_0115.png,SMHD,en,smhd_0049,If you are looking to loose weight,If you are looking to lose weight,complete,loose,lose,,1,1,0
+smhd_0116,images/smhd_0116.png,SMHD,en,smhd_0049,begain at 7 .,Began at 7 .,complete,begain,Began,,1,1,0
+smhd_0117,images/smhd_0117.png,SMHD,en,smhd_0050,co-education is the from of,co-education is the form of,complete,from,form,,1,1,0
+smhd_0118,images/smhd_0118.png,SMHD,en,smhd_0050,exists equality amonge the,exists equality among the,complete,amonge,among,,1,1,0
+smhd_0119,images/smhd_0119.png,SMHD,en,smhd_0050,consideration . They are taught whith,consideration . They are taught with,complete,whith,with,,1,1,0
+smhd_0120,images/smhd_0120.png,SMHD,en,smhd_0050,the gender wich help them to,the gender which help them to,complete,wich,which,,1,1,0
+smhd_0121,images/smhd_0121.png,SMHD,en,smhd_0052,hour continuously . Any additional excercise,hour continuously . Any additional exercise,complete,excercise,exercise,,1,1,0
+smhd_0122,images/smhd_0122.png,SMHD,en,smhd_0053,"we see in our society , womens are just limited","we see in our society , women are just limited",complete,womens,women,,1,1,0
+smhd_0123,images/smhd_0123.png,SMHD,en,smhd_0053,now a days when education becomes comm-,nowadays when education becomes common,complete,now a days|comm-,nowadays|common,,2,2,0
+smhd_0124,images/smhd_0124.png,SMHD,en,smhd_0053,problem have been reduced . Now Its Our 1st,problem have been reduced . Now it's Our 1st,complete,its,it's,,1,1,0
+smhd_0125,images/smhd_0125.png,SMHD,en,smhd_0055,My Favarite Personlity :-,My Favorite Personality :-,complete,Personlity|Favarite,Personality|Favorite,,2,2,0
+smhd_0126,images/smhd_0126.png,SMHD,en,smhd_0056,in physics for solving numericls proplems,in physics for solving numerical problems,complete,numericls|proplems,numerical|problems,,2,2,0
+smhd_0127,images/smhd_0127.png,SMHD,en,smhd_0056,"geometry , trignometry , conics etc .","geometry , trigonometry , conics etc .",complete,trignometry,trigonometry,,1,1,0
+smhd_0128,images/smhd_0128.png,SMHD,en,smhd_0058,deals with the adding and substracting a,deals with the adding and subtracting a,complete,substracting,subtracting,,1,1,0
+smhd_0129,images/smhd_0129.png,SMHD,en,smhd_0059,math very much . But those,Maths very much . But those,complete,math,Maths,,1,1,0
+smhd_0130,images/smhd_0130.png,SMHD,en,smhd_0059,teachear's and socity make,teacher's and society make,complete,socity|teachear,society|teacher,,2,2,0
+smhd_0131,images/smhd_0131.png,SMHD,en,smhd_0059,Student did not like math,Student did not like maths,complete,math,maths,,1,1,0
+smhd_0132,images/smhd_0132.png,SMHD,en,smhd_0060,A : Algebra T : Trignometry,A : Algebra T : Trigonometry,complete,Trignometry,Trigonometry,,1,1,0
+smhd_0133,images/smhd_0133.png,SMHD,en,smhd_0063,Mathimatics is the system of,Mathematics is the system of,complete,Mathimatics,Mathematics,,1,1,0
+smhd_0134,images/smhd_0134.png,SMHD,en,smhd_0063,Basic mathimetics is important,Basic mathematics is important,complete,mathimetics,mathematics,,1,1,0
+smhd_0135,images/smhd_0135.png,SMHD,en,smhd_0063,for a students of mathimatics .,for a students of mathematics .,complete,mathimatics,mathematics,,1,1,0
+smhd_0136,images/smhd_0136.png,SMHD,en,smhd_0066,Functions were origanally the,Functions were originally the,complete,origanally,originally,,1,1,0
+smhd_0137,images/smhd_0137.png,SMHD,en,smhd_0066,idealization of how a varing,idealization of how a varying,complete,varing,varying,,1,1,0
+smhd_0138,images/smhd_0138.png,SMHD,en,smhd_0069,real value funtion .,real value function .,complete,funtion,function,,1,1,0
+smhd_0139,images/smhd_0139.png,SMHD,en,smhd_0069,of variables that acess to,of variables that access to,complete,acess,access,,1,1,0
+smhd_0140,images/smhd_0140.png,SMHD,en,smhd_0070,the seconde element exactly .,the second element exactly .,complete,seconde,second,,1,1,0
+smhd_0141,images/smhd_0141.png,SMHD,en,smhd_0070,function of a real veriable measures,function of a real variable measures,complete,veriable,variable,,1,1,0
+smhd_0142,images/smhd_0142.png,SMHD,en,smhd_0072,real variable are defines much the wery,real variable are defines much the very,complete,wery,very,,1,1,0
+smhd_0143,images/smhd_0143.png,SMHD,en,smhd_0072,Ttwenty world cup Pakistan have Played,Twenty world cup Pakistan have Played,complete,Ttwenty,Twenty,,1,1,0
+smhd_0144,images/smhd_0144.png,SMHD,en,smhd_0073,proces of derivatives is,Process of derivatives is,complete,proces,Process,,1,1,0
+smhd_0145,images/smhd_0145.png,SMHD,en,smhd_0073,three definations .,three definitions .,complete,definations,definitions,,1,1,0
+smhd_0146,images/smhd_0146.png,SMHD,en,smhd_0074,It is suspensious that which,It is suspicious that which,complete,suspensious,suspicious,,1,1,0
+smhd_0147,images/smhd_0147.png,SMHD,en,smhd_0074,I realy like it .,I really like it .,complete,realy,really,,1,1,0
+smhd_0148,images/smhd_0148.png,SMHD,en,smhd_0075,difined much the way you could,Defined much the way you could,complete,difined,Defined,,1,1,0
+smhd_0149,images/smhd_0149.png,SMHD,en,smhd_0077,as a normel subject containg,as a normal subject containing,complete,containg|normel,containing|normal,,2,2,0
+smhd_0150,images/smhd_0150.png,SMHD,en,smhd_0078,The natural equations gives an intrinic,The natural equations gives an intrinsic,complete,intrinic,intrinsic,,1,1,0
+smhd_0151,images/smhd_0151.png,SMHD,en,smhd_0078,description of the curves which anable,description of the curves which enable,complete,anable,enable,,1,1,0
+smhd_0152,images/smhd_0152.png,SMHD,en,smhd_0078,adopted can be extented easily .,adopted can be extended easily .,complete,extented,extended,,1,1,0
+smhd_0153,images/smhd_0153.png,SMHD,en,smhd_0078,The ordinary defferential equation,The ordinary differential equation,complete,defferential,differential,,1,1,0
+smhd_0154,images/smhd_0154.png,SMHD,en,smhd_0080,"exist , A Commulative divisor ring","exist , A commutative divisor ring",complete,commulative,commutative,,1,1,0
+smhd_0155,images/smhd_0155.png,SMHD,en,smhd_0080,tell him about methematics deparmet,tell him about Mathematics department,complete,Methematics|deparmet,Mathematics|department,,2,2,0
+smhd_0156,images/smhd_0156.png,SMHD,en,smhd_0080,The methematics teacher is so,The Mathematics teacher is so,complete,Methematics,Mathematics,,1,1,0
+smhd_0157,images/smhd_0157.png,SMHD,en,smhd_0083,use cartesian cordinates so that the,use cartesian coordinates so that the,complete,cordinates,coordinates,,1,1,0
+smhd_0158,images/smhd_0158.png,SMHD,en,smhd_0089,they are termed (posiom Substanes),they are termed (poison substances),complete,posiom|substanes,poison|substances,,2,2,0
+smhd_0159,images/smhd_0159.png,SMHD,en,smhd_0089,nuclic Aacid in samallar amount,Nucleic Acid in smaller amount,complete,nuclic|samallar|Aacid,Nucleic|smaller|Acid,,3,3,0
+smhd_0160,images/smhd_0160.png,SMHD,en,smhd_0091,Greec Philosopher Aristotle Proposed,Greek Philosopher Aristotle Proposed,complete,Greec,Greek,,1,1,0
+smhd_0161,images/smhd_0161.png,SMHD,en,smhd_0093,have occured in these animals This,have occurred in these animals This,complete,occured,occurred,,1,1,0
+smhd_0162,images/smhd_0162.png,SMHD,en,smhd_0095,"1) ""Competative Inhibitor""","1) ""Competitive Inhibitor""",complete,Competative,Competitive,,1,1,0
+smhd_0163,images/smhd_0163.png,SMHD,en,smhd_0095,With active Site Called Competative,With active Site Called competitive,complete,competative,competitive,,1,1,0
+smhd_0164,images/smhd_0164.png,SMHD,en,smhd_0097,simpler biomolecls are itself.,simpler biomolecules are itself.,complete,biomolecls,biomolecules,,1,1,0
+smhd_0165,images/smhd_0165.png,SMHD,en,smhd_0098,Patterns & gives energy to the gowing,Patterns & gives energy to the growing,complete,gowing,growing,,1,1,0
+smhd_0166,images/smhd_0166.png,SMHD,en,smhd_0099,acellular proteinous entities . viruse,acellular proteinous entities . virus,complete,viruse,virus,,1,1,0
+smhd_0167,images/smhd_0167.png,SMHD,en,smhd_0099,is non-living out side cell and,is non-living outside cell and,complete,out side,outside,,1,1,0
+smhd_0168,images/smhd_0168.png,SMHD,en,smhd_0100,which protein arranged in varing degree .,which protein arranged in varying degree .,complete,varing,varying,,1,1,0
+smhd_0169,images/smhd_0169.png,SMHD,en,smhd_0100,lipid. The membrane include carbobohydrat,lipid. The membrane include carbohydrate,complete,carbobohydrat,carbohydrate,,1,1,0
+smhd_0170,images/smhd_0170.png,SMHD,en,smhd_0103,BACTERIOPHGES,BACTERIOPHAGES,complete,BACTERIOPHGES,BACTERIOPHAGES,,1,1,0
+smhd_0171,images/smhd_0171.png,SMHD,en,smhd_0112,"suggested , has only one cotyledone ,","suggested , has only one cotyledon ,",complete,cotyledone,cotyledon,,1,1,0
+smhd_0172,images/smhd_0172.png,SMHD,en,smhd_0113,Eurkayotic cell . The organization of thallus .,Eukaryotic cell . The organization of thallus .,complete,Eurkayotic,Eukaryotic,,1,1,0
+smhd_0173,images/smhd_0173.png,SMHD,en,smhd_0120,"known as oxaloacitic acids , as a","known as oxaloacetic acids , as a",complete,oxaloacitic,oxaloacetic,,1,1,0
+smhd_0174,images/smhd_0174.png,SMHD,en,smhd_0120,other b/c of their distiguished,other b/c of their distinguished,complete,distiguished,distinguished,,1,1,0
+smhd_0175,images/smhd_0175.png,SMHD,en,smhd_0120,- They have diamorphic chloroplast .,- They have dimorphic chloroplast .,complete,diamorphic,dimorphic,,1,1,0
+smhd_0176,images/smhd_0176.png,SMHD,en,smhd_0121,and carbhyrates,and carbohydrates,complete,carbhyrates,carbohydrates,,1,1,0
+smhd_0177,images/smhd_0177.png,SMHD,en,smhd_0123,They have Photosythis,They have photosynthesis,complete,photosythis,photosynthesis,,1,1,0
+smhd_0178,images/smhd_0178.png,SMHD,en,smhd_0123,involes .,Involves .,complete,involes,Involves,,1,1,0
+smhd_0179,images/smhd_0179.png,SMHD,en,smhd_0128,⇒ cell membran Separates internal cell,⇒ cell membrane Separates internal cell,complete,membran,membrane,,1,1,0
+smhd_0180,images/smhd_0180.png,SMHD,en,smhd_0131,Diffination :-,Definition :-,complete,Diffination,Definition,,1,1,0
+smhd_0181,images/smhd_0181.png,SMHD,en,smhd_0131,3) Peroxisom,3) Peroxisome,complete,Peroxisom,Peroxisome,,1,1,0
+smhd_0182,images/smhd_0182.png,SMHD,en,smhd_0132,My favourity Topic protein,My favourite Topic protein,complete,favourity,favourite,,1,1,0
+smhd_0183,images/smhd_0183.png,SMHD,en,smhd_0132,it is a complen nitrogenous substance,it is a complex nitrogenous substance,complete,complen,complex,,1,1,0
+smhd_0184,images/smhd_0184.png,SMHD,en,smhd_0134,Containing a veriety of cell organelles and other,Containing a variety of cell organelles and other,complete,veriety,variety,,1,1,0
+smhd_0185,images/smhd_0185.png,SMHD,en,smhd_0134,"true solutions , and some large molecules from collodidal","true solutions , and some large molecules from colloidal",complete,collodidal,colloidal,,1,1,0
+smhd_0186,images/smhd_0186.png,SMHD,en,smhd_0136,stain of a contrasting Color used,stain of a contrasting colour used,complete,color,colour,,1,1,0
+smhd_0187,images/smhd_0187.png,SMHD,en,smhd_0138,It is the outer most layer of animal,It is the outermost layer of animal,complete,outer most,outermost,,1,1,0
+smhd_0188,images/smhd_0188.png,SMHD,en,smhd_0138,cell and present beneth the plant cell wall .,cell and present beneath the plant cell wall .,complete,beneth,beneath,,1,1,0
+smhd_0189,images/smhd_0189.png,SMHD,en,smhd_0138,cell membrane is chamically composed of,cell membrane is chemically composed of,complete,chamically,chemically,,1,1,0
+smhd_0190,images/smhd_0190.png,SMHD,en,smhd_0138,most acceptable modele is,most acceptable model is,complete,modele,model,,1,1,0
+smhd_0191,images/smhd_0191.png,SMHD,en,smhd_0138,and many proteins are embaded,and many proteins are embedded,complete,embaded,embedded,,1,1,0
+smhd_0192,images/smhd_0192.png,SMHD,en,smhd_0138,"such us Intarnsic protein , Periperal protein","such us Intrinsic protein , Peripheral protein",complete,Intarnsic|Periperal,Intrinsic|Peripheral,,2,2,0
+smhd_0193,images/smhd_0193.png,SMHD,en,smhd_0139,This tissue must be sterillized to remove,This tissue must be sterilized to remove,complete,sterillized,sterilized,,1,1,0
+smhd_0194,images/smhd_0194.png,SMHD,en,smhd_0139,cytokinine ratio which result in the,cytokinin ratio which result in the,complete,cytokinine,cytokinin,,1,1,0
+smhd_0195,images/smhd_0195.png,SMHD,en,smhd_0139,humadity . this is nacessary many,humidity . this is necessary many,complete,humadity|nacessary,humidity|necessary,,2,2,0
+smhd_0196,images/smhd_0196.png,SMHD,en,smhd_0140,work as a barrer between the inner,work as a barrier between the inner,complete,barrer,barrier,,1,1,0
+smhd_0197,images/smhd_0197.png,SMHD,en,smhd_0141,Seqaration .,Separation .,complete,seqaration,Separation,,1,1,0
+smhd_0198,images/smhd_0198.png,SMHD,en,smhd_0144,"Latain word ""venome"" which mean ""poisonous""","Latin word ""venom"" which mean ""poisonous""",complete,Latain|venome,Latin|venom,,2,2,0
+smhd_0199,images/smhd_0199.png,SMHD,en,smhd_0144,acelluler proteinous entities . Viruse is,acellular proteinous entities . Virus is,complete,viruse|acelluler,Virus|acellular,,2,2,0
+smhd_0200,images/smhd_0200.png,SMHD,en,smhd_0144,non-living out side cell and living inside,non-living outside cell and living inside,complete,out side,outside,,1,1,0
+smhd_0201,images/smhd_0201.png,SMHD,en,smhd_0146,by an English microscpist Robert,by an English microscopist Robert,complete,microscpist,microscopist,,1,1,0
+smhd_0202,images/smhd_0202.png,SMHD,en,smhd_0147,(My Favourit Subject),(My Favourite Subject),complete,Favourit,Favourite,,1,1,0
+smhd_0203,images/smhd_0203.png,SMHD,en,smhd_0147,My favourit subject is Biology . Because,My favourite subject is Biology . Because,complete,favourit,favourite,,1,1,0
+smhd_0204,images/smhd_0204.png,SMHD,en,smhd_0151,eval granular area composed of,oval granular area composed of,complete,eval,oval,,1,1,0
+smhd_0205,images/smhd_0205.png,SMHD,en,smhd_0151,Consising of large molecular weight,Consisting of large molecular weight,complete,consising,Consisting,,1,1,0
+smhd_0206,images/smhd_0206.png,SMHD,en,smhd_0152,Protoplast . It is the outer most boundary,Protoplast . It is the outermost boundary,complete,outer most,outermost,,1,1,0
+smhd_0207,images/smhd_0207.png,SMHD,en,smhd_0154,which is mainpulated by varying,which is manipulated by varying,complete,mainpulated,manipulated,,1,1,0
+smhd_0208,images/smhd_0208.png,SMHD,en,smhd_0155,Contining organism and Thailloids,Containing organism and thalloids,complete,Thailloids|Contining,thalloids|Containing,,2,2,0
+smhd_0209,images/smhd_0209.png,SMHD,en,smhd_0155,No Sex organ . No vasclular system,No Sex organ . No vascular system,complete,vasclular,vascular,,1,1,0
+smhd_0210,images/smhd_0210.png,SMHD,en,smhd_0159,Containous vessels of xylem are,Contains vessels of xylem are,complete,containous,Contains,,1,1,0
+smhd_0211,images/smhd_0211.png,SMHD,en,smhd_0161,He used to gambel a lot while,He used to gamble a lot while,complete,gambel,gamble,,1,1,0
+smhd_0212,images/smhd_0212.png,SMHD,en,smhd_0161,"of forty , suddendly one reporter","of forty , suddenly one reporter",complete,suddendly,suddenly,,1,1,0
+smhd_0213,images/smhd_0213.png,SMHD,en,smhd_0162,and theatre enterpreneur in London during,and theatre entrepreneur in London during,complete,enterpreneur,entrepreneur,,1,1,0
+smhd_0214,images/smhd_0214.png,SMHD,en,smhd_0163,His mother name was Elezbeth,His mother name was Elizabeth,complete,Elezbeth,Elizabeth,,1,1,0
+smhd_0215,images/smhd_0215.png,SMHD,en,smhd_0167,business Survies and grows.,business survives and grows.,complete,survies,survives,,1,1,0
+smhd_0216,images/smhd_0216.png,SMHD,en,smhd_0169,because he belive that the soule,because he believe that the soul,complete,soule|belive,soul|believe,,2,2,0
+smhd_0217,images/smhd_0217.png,SMHD,en,smhd_0169,when child born so the soule came,when child born so the soul came,complete,soule,soul,,1,1,0
+smhd_0218,images/smhd_0218.png,SMHD,en,smhd_0170,hurridles come in yours ways,Hurdles come in yours ways,complete,hurridles,Hurdles,,1,1,0
+smhd_0219,images/smhd_0219.png,SMHD,en,smhd_0170,also provide to asses data .,also provide to assess data .,complete,asses,assess,,1,1,0
+smhd_0220,images/smhd_0220.png,SMHD,en,smhd_0175,what have happend to the muslim world after,what have happened to the muslim world after,complete,happend,happened,,1,1,0
+smhd_0221,images/smhd_0221.png,SMHD,en,smhd_0175,their beard . Islamophobia start through out the,their beard . Islamophobia start throughout the,complete,through out,throughout,,1,1,0
+smhd_0222,images/smhd_0222.png,SMHD,en,smhd_0175,responsible for such terriorist like things .,responsible for such terrorist like things .,complete,terriorist,terrorist,,1,1,0
+smhd_0223,images/smhd_0223.png,SMHD,en,smhd_0175,"But it's was not the case , Because","But it was not the case , Because",complete,it's was,it was,,1,1,0
+smhd_0224,images/smhd_0224.png,SMHD,en,smhd_0176,"Gabriel . The theme of ""Soltitude"" .","Gabriel . The theme of ""solitude"" .",complete,soltitude,solitude,,1,1,0
+smhd_0225,images/smhd_0225.png,SMHD,en,smhd_0177,mostly highted in the novel .,mostly highlighted in the novel .,complete,highted,highlighted,,1,1,0
+smhd_0226,images/smhd_0226.png,SMHD,en,smhd_0180,materialistic and love with whome who has,materialistic and love with whom who has,complete,whome,whom,,1,1,0
+smhd_0227,images/smhd_0227.png,SMHD,en,smhd_0180,money and Rich having luxerious life,money and Rich having luxurious life,complete,luxerious,luxurious,,1,1,0
+smhd_0228,images/smhd_0228.png,SMHD,en,smhd_0185,was under Civil war and voilence for,was under Civil war and violence for,complete,voilence,violence,,1,1,0
+smhd_0229,images/smhd_0229.png,SMHD,en,smhd_0191,the child comes. infront of the mirror . This,the child comes. in front of the mirror . This,complete,infront,in front,,1,1,0
+smhd_0230,images/smhd_0230.png,SMHD,en,smhd_0195,become a best seller . one major difference between popular,become a bestseller . one major difference between popular,complete,best seller,bestseller,,1,1,0
+smhd_0231,images/smhd_0231.png,SMHD,en,smhd_0199,starts learning magic . He justafied himself by,starts learning magic . He justified himself by,complete,justafied,justified,,1,1,0
+smhd_0232,images/smhd_0232.png,SMHD,en,smhd_0200,don't be despire Allah is always with,don't be despair Allah is always with,complete,despire,despair,,1,1,0
+smhd_0233,images/smhd_0233.png,SMHD,en,smhd_0202,Suffer alot.,Suffer a lot.,complete,alot,a lot,,1,1,0
+smhd_0234,images/smhd_0234.png,SMHD,en,smhd_0203,"Poet among philosphers , enemy of poets and","Poet among philosophers , enemy of poets and",complete,philosphers,philosophers,,1,1,0
+smhd_0235,images/smhd_0235.png,SMHD,en,smhd_0204,a passive reciever . for assesment,a passive receiver . for assessment,complete,reciever|assesment,receiver|assessment,,2,2,0
+smhd_0236,images/smhd_0236.png,SMHD,en,smhd_0206,He goes to an extreme but he doesnot,He goes to an extreme but he doesn't,complete,doesnot,doesn't,,1,1,0
+smhd_0237,images/smhd_0237.png,SMHD,en,smhd_0206,fall dowen . In the end of play,fall down . In the end of play,complete,dowen,down,,1,1,0
+smhd_0238,images/smhd_0238.png,SMHD,en,smhd_0207,given their degrees they were circumsised,given their degrees they were circumcised,complete,circumsised,circumcised,,1,1,0
+smhd_0239,images/smhd_0239.png,SMHD,en,smhd_0210,the immitating style or manner of particular,the imitating style or manner of particular,complete,immitating,imitating,,1,1,0
+smhd_0240,images/smhd_0240.png,SMHD,en,smhd_0213,life for me hasnot been no crystal stair,life for me hasn't been no crystal stair,complete,hasnot,hasn't,,1,1,0
+smhd_0241,images/smhd_0241.png,SMHD,en,smhd_0215,Prefixe has two word are,Prefix has two word are,complete,Prefixe,Prefix,,1,1,0
+smhd_0242,images/smhd_0242.png,SMHD,en,smhd_0216,"And reachin , landins ,","And reaching , landings ,",complete,reachin|landins,reaching|landings,,2,2,0
+smhd_0243,images/smhd_0243.png,SMHD,en,smhd_0216,And sometimes goin in the dark,And sometimes going in the dark,complete,goin,going,,1,1,0
+smhd_0244,images/smhd_0244.png,SMHD,en,smhd_0217,inistence of the then prime Minister,insistence of the then prime Minister,complete,inistence,insistence,,1,1,0
+smhd_0245,images/smhd_0245.png,SMHD,en,smhd_0220,and assessments. She is the auther of the,and assessments. She is the author of the,complete,auther,author,,1,1,0
+smhd_0246,images/smhd_0246.png,SMHD,en,smhd_0220,audio book for British,audiobook for British,complete,audio book,audiobook,,1,1,0
+smhd_0247,images/smhd_0247.png,SMHD,en,smhd_0221,a poet and stort - story writer in,a poet and short - story writer in,complete,stort,short,,1,1,0
+smhd_0248,images/smhd_0248.png,SMHD,en,smhd_0225,"Bombay , India his fother was the","Bombay , India his father was the",complete,fother,father,,1,1,0
+smhd_0249,images/smhd_0249.png,SMHD,en,smhd_0228,do hard work continously . A Good,do hard work continuously . A Good,complete,continously,continuously,,1,1,0
+smhd_0250,images/smhd_0250.png,SMHD,en,smhd_0228,"for the sufficent light of sun , water","for the sufficient light of sun , water",complete,sufficent,sufficient,,1,1,0
+smhd_0251,images/smhd_0251.png,SMHD,en,smhd_0228,that live in open Area and donot,that live in open Area and don't,complete,donot,don't,,1,1,0
+smhd_0252,images/smhd_0252.png,SMHD,en,smhd_0228,compete for their requriment . A Good,compete for their requirement . A Good,complete,requriment,requirement,,1,1,0
+smhd_0253,images/smhd_0253.png,SMHD,en,smhd_0229,it importants . from this we get,it importance . from this we get,complete,importants,importance,,1,1,0
+smhd_0254,images/smhd_0254.png,SMHD,en,smhd_0234,"hope and will power , he or she can't acheive","hope and will power , he or she can't achieve",complete,acheive,achieve,,1,1,0
+smhd_0255,images/smhd_0255.png,SMHD,en,smhd_0235,and enzyme form an enzym- substrate,and enzyme form an enzyme-substrate,complete,enzym- substrate,enzyme-substrate,,1,1,0
+smhd_0256,images/smhd_0256.png,SMHD,en,smhd_0235,He studed the computer science .,He studied the computer science .,complete,studed,studied,,1,1,0
+smhd_0257,images/smhd_0257.png,SMHD,en,smhd_0241,are mostly acurate,are mostly accurate,complete,acurate,accurate,,1,1,0
+smhd_0258,images/smhd_0258.png,SMHD,en,smhd_0242,and last piligrims of muhmmad (SAW),and last pilgrims of Muhammad (SAW),complete,piligrims|muhmmad,pilgrims|Muhammad,,2,2,0
+smhd_0259,images/smhd_0259.png,SMHD,en,smhd_0246,waves Which Consist of the sonud,waves Which Consist of the sound,complete,sonud,sound,,1,1,0
+smhd_0260,images/smhd_0260.png,SMHD,en,smhd_0247,in our daily rotine .,in our daily routine .,complete,rotine,routine,,1,1,0
+smhd_0261,images/smhd_0261.png,SMHD,en,smhd_0248,"equall and opposite reaction"" .","Equal and opposite reaction"" .",complete,equall,Equal,,1,1,0
+smhd_0262,images/smhd_0262.png,SMHD,en,smhd_0248,Physics is very intersting subject and,Physics is very interesting subject and,complete,intersting,interesting,,1,1,0
+smhd_0263,images/smhd_0263.png,SMHD,en,smhd_0249,matter and the changes occuring,matter and the changes occurring,complete,occuring,occurring,,1,1,0
+smhd_0264,images/smhd_0264.png,SMHD,en,smhd_0250,Megnitud is called Scalar quantity,Magnitude is called Scalar quantity,complete,Megnitud,Magnitude,,1,1,0
+smhd_0265,images/smhd_0265.png,SMHD,en,smhd_0250,which can be discribed their,which can be described their,complete,discribed,described,,1,1,0
+smhd_0266,images/smhd_0266.png,SMHD,en,smhd_0257,called electronegitivity . Here are some,called electronegativity . Here are some,complete,electronegitivity,electronegativity,,1,1,0
+smhd_0267,images/smhd_0267.png,SMHD,en,smhd_0257,Enzyme is a biological catalist,Enzyme is a biological catalyst,complete,catalist,catalyst,,1,1,0
+smhd_0268,images/smhd_0268.png,SMHD,en,smhd_0276,water This is vary imporant as The,water This is very important as The,complete,vary|imporant,very|important,,2,2,0
+smhd_0269,images/smhd_0269.png,SMHD,en,smhd_0276,inculding taking toxic subsatence out of,including taking toxic substance out of,complete,subsatence|inculding,substance|including,,2,2,0
+smhd_0270,images/smhd_0270.png,SMHD,en,smhd_0285,His parents donot give him food because,His parents don't give him food because,complete,donot,don't,,1,1,0
+smhd_0271,images/smhd_0271.png,SMHD,en,smhd_0286,impossiable . Hard work is the most importance,Impossible . Hard work is the most importance,complete,impossiable,Impossible,,1,1,0
+smhd_0272,images/smhd_0272.png,SMHD,en,smhd_0286,success . Nothing is esay to be acheived,success . Nothing is easy to be achieved,complete,esay|acheived,easy|achieved,,2,2,0
+smhd_0273,images/smhd_0273.png,SMHD,en,smhd_0287,in our life then it could be achieved only through workinghard .,in our life then it could be achieved only through working hard .,complete,workinghard,working hard,,1,1,0
+smhd_0274,images/smhd_0274.png,SMHD,en,smhd_0289,Work are impossiable. An idil Person,Work are impossible. An idle Person,complete,impossiable|idil,impossible|idle,,2,2,0
+smhd_0275,images/smhd_0275.png,SMHD,en,smhd_0289,Nothings is easy to be acheived in,Nothing is easy to be achieved in,complete,Nothings|acheived,Nothing|achieved,,2,2,0
+smhd_0276,images/smhd_0276.png,SMHD,en,smhd_0289,gaves the revenge of hard work .,Games the revenge of hard work .,complete,gaves,Games,,1,1,0
+smhd_0277,images/smhd_0277.png,SMHD,en,smhd_0290,independent and sucesfull .,independent and successful .,complete,sucesfull,successful,,1,1,0
+smhd_0278,images/smhd_0278.png,SMHD,en,smhd_0293,nature . A life of idlness is a,nature . A life of idleness is a,complete,idlness,idleness,,1,1,0
+smhd_0279,images/smhd_0279.png,SMHD,en,smhd_0296,live happy life . The successfull,live happy life . The successful,complete,successfull,successful,,1,1,0
+smhd_0280,images/smhd_0280.png,SMHD,en,smhd_0297,they cannot reach to theire distination . If we,they cannot reach to their destination . If we,complete,distination|theire,destination|their,,2,2,0
+smhd_0281,images/smhd_0281.png,SMHD,en,smhd_0297,he will be succed in thire future .,he will be succeed in their future .,complete,succed|thire,succeed|their,,2,2,0
+smhd_0282,images/smhd_0282.png,SMHD,en,smhd_0302,1948 and he was burried in Karachi -,1948 and he was buried in Karachi -,complete,burried,buried,,1,1,0
+smhd_0283,images/smhd_0283.png,SMHD,en,smhd_0303,personlity in my life . My best,Personality in my life . My best,complete,personlity,Personality,,1,1,0
+smhd_0284,images/smhd_0284.png,SMHD,en,smhd_0303,personlity is my teacher his name,Personality is my teacher his name,complete,personlity,Personality,,1,1,0
+smhd_0285,images/smhd_0285.png,SMHD,en,smhd_0304,nobal and respectable Person .,noble and respectable Person .,complete,nobal,noble,,1,1,0
+smhd_0286,images/smhd_0286.png,SMHD,en,smhd_0304,good advicer. He is as a,good adviser. He is as a,complete,advicer,adviser,,1,1,0
+smhd_0287,images/smhd_0287.png,SMHD,en,smhd_0306,"for his childrens, He did","for his children, He did",complete,childrens,children,,1,1,0
+smhd_0288,images/smhd_0288.png,SMHD,en,smhd_0306,our live with good lifestyle .,our lives with good lifestyle .,complete,live,lives,,1,1,0
+smhd_0289,images/smhd_0289.png,SMHD,en,smhd_0307,I have visited alot of places and met,I have visited a lot of places and met,complete,alot,a lot,,1,1,0
+smhd_0290,images/smhd_0290.png,SMHD,en,smhd_0308,of the most cruel person in past . He conqured,of the most cruel person in past . He conquered,complete,conqured,conquered,,1,1,0
+smhd_0291,images/smhd_0291.png,SMHD,en,smhd_0308,"Unfortunatly, with the cause of dishonesty , he was not","Unfortunately, with the cause of dishonesty , he was not",complete,Unfortunatly,Unfortunately,,1,1,0
+smhd_0292,images/smhd_0292.png,SMHD,en,smhd_0309,be cut . what is the proplem in liver,be cut . what is the problem in liver,complete,proplem,problem,,1,1,0
+smhd_0293,images/smhd_0293.png,SMHD,en,smhd_0309,The uneducated most vigelent worker,The uneducated most vigilant worker,complete,vigelent,vigilant,,1,1,0
+smhd_0294,images/smhd_0294.png,SMHD,en,smhd_0312,and acheive our goals So we will try again and,and achieve our goals So we will try again and,complete,acheive,achieve,,1,1,0
+smhd_0295,images/smhd_0295.png,SMHD,en,smhd_0314,that we have to keep our struggle continuoued .,that we have to keep our struggle continued .,complete,continuoued,continued,,1,1,0
+smhd_0296,images/smhd_0296.png,SMHD,en,smhd_0315,and again untill you success,and again until you success,complete,untill,until,,1,1,0
+smhd_0297,images/smhd_0297.png,SMHD,en,smhd_0317,until we acheive our goal . As we know,until we achieve our goal . As we know,complete,acheive,achieve,,1,1,0
+peer_0001,images/peer_0001.jpg,PEER,de,essay_019,wir ein bisschen Spaß haben und zusamen,wir ein bisschen Spaß haben und zusammen,complete,zusamen,zusammen,,1,1,0
+peer_0002,images/peer_0002.jpg,PEER,de,essay_023,Lieb Schulleitung für denn Treffpunkt,Liebe Schulleitung für den Treffpunkt,complete,Lieb|denn,Liebe|den,,2,2,0
+peer_0003,images/peer_0003.jpg,PEER,de,essay_023,irgendwo in der nehe der schule bin,irgendwo in der Nähe der schule bin,complete,nehe,Nähe,,1,1,0
+peer_0004,images/peer_0004.jpg,PEER,de,essay_025,Liebe Schuleiter’in,Liebe Schulleiter’in,complete,Schuleiter,Schulleiter,,1,1,0
+peer_0005,images/peer_0005.jpg,PEER,de,essay_025,"Ich bin däfur, weil es gut für uns","Ich bin dafür, weil es gut für uns",complete,däfur,dafür,,1,1,0
+peer_0006,images/peer_0006.jpg,PEER,de,essay_025,Einzilkind und im ist langweilig,Einzelkind und ihm ist langweilig,complete,Einzilkind|im,Einzelkind|ihm,,2,2,0
+peer_0007,images/peer_0007.jpg,PEER,de,essay_025,dann zuklären! Auch wenn,dann zu klären! Auch wenn,complete,zuklären,zu klären,,1,1,0
+peer_0008,images/peer_0008.jpg,PEER,de,essay_025,fielleicht bekommt er ein,vielleicht bekommt er ein,complete,fielleicht,vielleicht,,1,1,0
+peer_0009,images/peer_0009.jpg,PEER,de,essay_026,"da spielen als drausen, weil alleine draußen","da spielen als draußen, weil alleine draußen",complete,drausen,draußen,,1,1,0
+peer_0010,images/peer_0010.jpg,PEER,de,essay_028,Am liebsten sagen die Kinder per Email,Am liebsten sagen die Kinder per E-Mail,complete,Email,E-Mail,,1,1,0
+peer_0011,images/peer_0011.jpg,PEER,de,essay_028,Apropo klettern können sie auch kleines,Apropos klettern können sie auch kleines,complete,Apropo,Apropos,,1,1,0
+peer_0012,images/peer_0012.jpg,PEER,de,essay_028,und wer noch nich dran war wird am,und wer noch nicht dran war wird am,complete,nich,nicht,,1,1,0
+peer_0013,images/peer_0013.jpg,PEER,de,essay_028,für uns machen? Sie sin der/die beste/r,für uns machen? Sie sind der/die beste/r,complete,sin,sind,,1,1,0
+peer_0014,images/peer_0014.jpg,PEER,de,essay_028,Schulleiter/inn der ganzen weiten Welt!,Schulleiter/in der ganzen weiten Welt!,complete,inn,in,,1,1,0
+peer_0015,images/peer_0015.jpg,PEER,de,essay_029,"Kann mann auch dahin gehen, und sitzen.","Kann man auch dahin gehen, und sitzen.",complete,mann,man,,1,1,0
+peer_0016,images/peer_0016.jpg,PEER,de,essay_029,Tenis u.s.w.,Tennis u.s.w.,complete,Tenis,Tennis,,1,1,0
+peer_0017,images/peer_0017.jpg,PEER,de,essay_029,"Ich empfehle da Wasserspänder stehen weil,","Ich empfehle da Wasserspender stehen weil,",complete,Wasserspänder,Wasserspender,,1,1,0
+peer_0018,images/peer_0018.jpg,PEER,de,essay_030,"machen, weil kleine kinde können","machen, weil kleine Kinder können",complete,kinde,Kinder,,1,1,0
+peer_0019,images/peer_0019.jpg,PEER,de,essay_030,langweillich sein und Leute,langweilig sein und Leute,complete,langweillich,langweilig,,1,1,0
+peer_0020,images/peer_0020.jpg,PEER,de,essay_030,zeit verschenden.,zeit verschwenden.,complete,verschenden,verschwenden,,1,1,0
+peer_0021,images/peer_0021.jpg,PEER,de,essay_030,für Schüller die Nähe von Treffpunkt sind,für Schüler die Nähe von Treffpunkt sind,complete,Schüller,Schüler,,1,1,0
+peer_0022,images/peer_0022.jpg,PEER,de,essay_035,"Sehr gerthe, herr Schullleiter,","Sehr geehrter, herr Schulleiter,",complete,gerthe|Schullleiter,geehrter|Schulleiter,,2,2,0
+peer_0023,images/peer_0023.jpg,PEER,de,essay_046,die Sonne sehen kann also dursichtig und,die Sonne sehen kann also durchsichtig und,complete,dursichtig,durchsichtig,,1,1,0
+peer_0024,images/peer_0024.jpg,PEER,de,essay_046,von der Schule zuganglich sei. Bei dem man,von der Schule zugänglich sei. Bei dem man,complete,zuganglich,zugänglich,,1,1,0
+peer_0025,images/peer_0025.jpg,PEER,de,essay_046,emphele ihnen diese zwei Sachen damit,empfehle ihnen diese zwei Sachen damit,complete,emphele,empfehle,,1,1,0
+peer_0026,images/peer_0026.jpg,PEER,de,essay_048,gehen wir mit dem Lehrern / Sozialpädagoginen hin.,gehen wir mit dem Lehrern / Sozialpädagoginnen hin.,complete,Sozialpädagoginen,Sozialpädagoginnen,,1,1,0
+peer_0027,images/peer_0027.jpg,PEER,de,essay_050,machen also könnte man Tische hinstell wo man dan,machen also könnte man Tische hinstellen wo man dann,complete,hinstell|dan,hinstellen|dann,,2,2,0
+peer_0028,images/peer_0028.jpg,PEER,de,essay_051,andere Schüller etwas fragen falls eine Probe,andere Schüler etwas fragen falls eine Probe,complete,Schüller,Schüler,,1,1,0
+peer_0029,images/peer_0029.jpg,PEER,de,essay_051,viele Trefpunkte gemacht haben zum Beispiel beim,viele Treffpunkte gemacht haben zum Beispiel beim,complete,Trefpunkte,Treffpunkte,,1,1,0
+peer_0030,images/peer_0030.jpg,PEER,de,essay_051,Ich empfehle es an andere weiter weil dan man,Ich empfehle es an andere weiter weil dann man,complete,dan,dann,,1,1,0
+peer_0031,images/peer_0031.jpg,PEER,de,essay_054,kein handy hat oder das es kein aku,kein handy hat oder dass es kein Akku,complete,das|aku,dass|Akku,,2,2,0
+peer_0032,images/peer_0032.jpg,PEER,de,essay_054,ein Spielplatz oder eine Bank und dan nach,ein Spielplatz oder eine Bank und dann nach,complete,dan,dann,,1,1,0
